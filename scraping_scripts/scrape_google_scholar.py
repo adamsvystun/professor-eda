@@ -1,50 +1,142 @@
-from bs4 import BeautifulSoup
 import pandas as pd
 import urllib.request
-from urllib.parse import quote
+import urllib
+import re
 import argparse
-from tqdm import tqdm
+import pickle
 import sys
 import time
+import os
+import json
+import requests
+import traceback
+from bs4 import BeautifulSoup
+from urllib.parse import quote
+from tqdm import tqdm
+from functools import wraps
 from joblib import Memory
+from lxml.html import fromstring
+from itertools import cycle
+
 
 location = '.cache/google_scholar'
 memory = Memory(location, verbose=1)
 
 
-def get_soup_from_url(url):
+def memory_cache(*args):
+    recalculate_none = False
+    def _memory_cache(f):
+        cache_file = f.__name__ + '.json'
+        print(cache_file)
+
+        cache = {}
+        if os.path.exists(cache_file):
+            with open(cache_file) as fd:
+                cache = json.load(fd)
+
+        @wraps(f)
+        def wrapper(arg):
+            if arg in cache:
+                print('[>] Cache hit')
+                res = cache[arg]
+                if res or (not res and not recalculate_none):
+                    return res
+                print('[>] Recalclating')
+            res = f(arg)
+
+            cache[arg] = res
+            print('[>] Saving cache')
+            with open(cache_file, 'w+') as fd:
+                json.dump(cache, fd)
+            return res
+
+        return wrapper
+    
+    if len(args) == 1 and callable(args[0]):
+        return _memory_cache(args[0])
+    else:
+        recalculate_none = args[0]
+        return _memory_cache
+
+
+def get_proxies():
+    url = 'https://free-proxy-list.net/'
+    response = requests.get(url)
+    parser = fromstring(response.text)
+    proxies = set()
+    for i in parser.xpath('//tbody/tr'):
+        if i.xpath('.//td[7][contains(text(),"yes")]'):
+            # Grabbing IP and corresponding PORT
+            proxy = ":".join([i.xpath('.//td[1]/text()')[0],
+                              i.xpath('.//td[2]/text()')[0]])
+            proxies.add(proxy)
+    return proxies
+
+
+proxies = get_proxies()
+
+def get_soup_from_url(url, check_captcha=None):
+    global proxies
     print('Making request')
-    request = urllib.request.Request(url, None, {
-        'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5',
-        'Connection': 'keep-alive',
-        'Cookie': 'NID=201=tsT4MeVfdMOSnO3fzigATm_-2FyQYs9rh01h84HJNUMCpj140XHKbqCX2MrRxO88PFCSYcZh7qhzwvrDh3Ua3qBG3ULu9TN1xwCdIiWanv82YQiGhPBe3umCfRz4-AZ_GMSk-XsyT2w_rWBQ7TtAOQdf_dQ9JMTnUE1qng_Jv3jphvJNnmZb-VRWGJf2oN81v80lgvJ0s1WonF8M2omkpGNQYpjnp_a91QG83SUVvr7YZar-rK0qHhuiOSUX_LJLAecweYLc_jT7bPavE1hx20Ouc6fD44uXMai-iBSUgzia7kvo9SYI5nsUOe2p91iPA_cwlirFQvswWtR51wA8scauH2Xn90gii96f0uhFOJl86IZa4nlOe_6_q8N2shxjDgSCijGTWVHWkU7YJOBEzvQiqxL2TzrriNkbhuj-SSalpS04Onz0; SID=vAebElD7Qx5O65-RFK-OT5xoVMapS6woW1CyDVjA0jU2ML6HHSidGz4wSG57-eDB5yBCPg.; HSID=AdjqUTd7HClZERhnD; SSID=AIzMbx_RcT_NmvVBx; APISID=He3Z8Ic3xZhNMBBp/A9Sa-R2wH5QtLacDS; SAPISID=nnQDDU6r0YRmj-V_/AaGKEL9LOxDxLLP2v; SIDCC=AJi4QfHuCVL2ZoxjQuyAccLjA7MvF9JL_9pQxWgWtauJ6689SqnRW-2-2PKiFl1tsDlHvQIstSQ; 1P_JAR=2020-3-29-0; SEARCH_SAMESITE=CgQIrY8B; CONSENT=YES+PL.pl+; __Secure-3PSID=vAebElD7Qx5O65-RFK-OT5xoVMapS6woW1CyDVjA0jU2ML6HAaC81OAN6-aGJNhwClkA5g.; __Secure-3PAPISID=nnQDDU6r0YRmj-V_/AaGKEL9LOxDxLLP2v; __Secure-HSID=AdjqUTd7HClZERhnD; __Secure-SSID=AIzMbx_RcT_NmvVBx; __Secure-APISID=He3Z8Ic3xZhNMBBp/A9Sa-R2wH5QtLacDS; GSP=LM=1580681697:S=hUSDj9EBQ2L5P2lp; ANID=AHWqTUktSi_LkUrdd866zaLcplGrkH3vuxPAJi9DH6UXahmRchR7SGGqjj48KCiX; OGPC=19016664-5:',
-        'Upgrade-Insecure-Requests': '1',
-        'Cache-Control': 'max-age=0'
-    })
-    response = urllib.request.urlopen(request)
-    data = response.read()
-    soup = BeautifulSoup(data, 'html.parser')
+    soup = None
+    new_proxies = proxies.copy()
+    print(len(proxies)) 
+    for proxy in proxies:
+        if soup:
+            break
+        try:
+            print(url)
+            response = requests.get(url, proxies={"http": proxy, "https": proxy}, timeout=5)
+            data = response.text
+            soup = BeautifulSoup(data, 'html.parser')
+            if check_captcha(soup):
+                new_proxies.remove(proxy)
+                print('[>] Found captcha')
+                soup = None
+        except Exception as e:
+            print(e)
+            new_proxies.remove(proxy)
+            print("[>] Skipping. Connnection error")
+    if not soup:
+        print('All proxies failed')
+        exit()
+    proxies = new_proxies
     return soup
 
 
-class AuthorLinkNotFoundException(Exception):
+class CaptchaPresent(Exception):
     pass
 
+captcha_regex = re.compile(r"www.google.com/recaptcha/api.js")
 
-@memory.cache
+@memory_cache(True)
 def find_author_link(author):
-    soup = get_soup_from_url("https://scholar.google.com/scholar?q=" + quote(author))
+    def check_captcha(soup):
+        are_results_on_page = soup.find('svg', class_='gs_or_svg') is not None
+        return not are_results_on_page
+    soup = get_soup_from_url("http://scholar.google.com/scholar?q=" + quote(author), check_captcha)
+    # is_captcha_on_page = (soup.find("input", id="recaptcha-token") is not None) or (
+    #     soup.find("form", id="gs_captcha_f") is not None
+    # ) or (
+    #     soup.find("div", id="recaptcha") is not None
+    # ) or (
+    #     soup.find("script", { "url": captcha_regex }) is not None
+    # ) or (
+    #     soup.find("a", { "href": 'https://support.google.com/websearch/answer/86640' }) is not None
+    # )
+    
     h4 = soup.find('h4', class_='gs_rt2')
     if not h4:
-        raise AuthorLinkNotFoundException()
-    return "https://scholar.google.com" + h4.a.get('href')
+        return None
+    return "http://scholar.google.com" + h4.a.get('href')
 
 
-@memory.cache
+@memory_cache
 def scrape_link(link):
-    soup = get_soup_from_url(link)
+    def check_captcha(soup):
+        are_results_on_page = soup.find('div', class_='gsc_prf_il') is not None
+        return not are_results_on_page
+    soup = get_soup_from_url(link, check_captcha)
 
     affiliation = soup.find('div', class_='gsc_prf_il').get_text()
     raw_stats = soup.find('table', id='gsc_rsb_st').find_all('td', class_='gsc_rsb_std')
@@ -63,23 +155,23 @@ def scrape_link(link):
 
 def scrape_google_scholar(options):
     professors = pd.read_csv(options.input)
-    
+
     # Create a dataframe where to save results
-    gs_data = pd.DataFrame(columns=['name', 'affiliation', 'citations', 'hindex', 'i10index'])
+    gs_data = pd.DataFrame(
+        columns=['name', 'affiliation', 'citations', 'hindex', 'i10index'])
     number_of_authors_not_found = 0
-    
+
     # Go through each professor
-    for professor_name in tqdm(professors['Name']): 
+    for professor_name in tqdm(professors['Name']):
         try:
             link = find_author_link(str(professor_name))
+            if not link:
+                continue
             data = scrape_link(link)
             data['name'] = professor_name
             gs_data = gs_data.append(data, ignore_index=True)
         except KeyboardInterrupt:
-            sys.exit()
-        except AuthorLinkNotFoundException:
-            number_of_authors_not_found += 1
-            pass
+            break
         except Exception as e:
             print(e)
             break
