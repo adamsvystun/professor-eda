@@ -37,15 +37,15 @@ def memory_cache(*args):
         @wraps(f)
         def wrapper(arg):
             if arg in cache:
-                print('[>] Cache hit')
+                # print('[>] Cache hit')
                 res = cache[arg]
                 if res or (not res and not recalculate_none):
                     return res
-                print('[>] Recalclating')
+                # print('[>] Recalclating')
             res = f(arg)
 
             cache[arg] = res
-            print('[>] Saving cache')
+            # print('[>] Saving cache')
             with open(cache_file, 'w+') as fd:
                 json.dump(cache, fd)
             return res
@@ -109,7 +109,7 @@ class CaptchaPresent(Exception):
 
 captcha_regex = re.compile(r"www.google.com/recaptcha/api.js")
 
-@memory_cache(True)
+@memory_cache
 def find_author_link(author):
     def check_captcha(soup):
         are_results_on_page = soup.find('svg', class_='gs_or_svg') is not None
