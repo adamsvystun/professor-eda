@@ -51,7 +51,7 @@ def memory_cache(*args):
             return res
 
         return wrapper
-    
+
     if len(args) == 1 and callable(args[0]):
         return _memory_cache(args[0])
     else:
@@ -80,13 +80,13 @@ def get_soup_from_url(url, check_captcha=None):
     print('Making request')
     soup = None
     new_proxies = proxies.copy()
-    print(len(proxies)) 
+    print(len(proxies))
     for proxy in proxies:
         if soup:
             break
         try:
             print(url)
-            response = requests.get(url, proxies={"http": proxy, "https": proxy}, timeout=5)
+            response = requests.get(url, proxies={"http": proxy, "https": proxy}, timeout=60)
             data = response.text
             soup = BeautifulSoup(data, 'html.parser')
             if check_captcha(soup):
@@ -112,7 +112,13 @@ captcha_regex = re.compile(r"www.google.com/recaptcha/api.js")
 @memory_cache
 def find_author_link(author):
     def check_captcha(soup):
-        are_results_on_page = soup.find('svg', class_='gs_or_svg') is not None
+        print(soup)
+        are_results_on_page = (
+            soup.find('svg', class_='gs_or_svg') is not None
+        ) or (
+            soup.find('div', id='gs_res_ccl') is not None
+            and soup.find('div', class_='gs_r') is not None
+        )
         return not are_results_on_page
     soup = get_soup_from_url("http://scholar.google.com/scholar?q=" + quote(author), check_captcha)
     # is_captcha_on_page = (soup.find("input", id="recaptcha-token") is not None) or (
@@ -124,7 +130,7 @@ def find_author_link(author):
     # ) or (
     #     soup.find("a", { "href": 'https://support.google.com/websearch/answer/86640' }) is not None
     # )
-    
+
     h4 = soup.find('h4', class_='gs_rt2')
     if not h4:
         return None
@@ -155,6 +161,7 @@ def scrape_link(link):
 
 def scrape_google_scholar(options):
     professors = pd.read_csv(options.input)
+    professors = professors.sample(frac=1)
 
     # Create a dataframe where to save results
     gs_data = pd.DataFrame(
