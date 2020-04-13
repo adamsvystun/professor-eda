@@ -1,25 +1,129 @@
 name,affiliation,citations,hindex,i10index
-"Mukherjee, Sayan","Duke University, MIT",37929,49,121
-"Maas, Michael","Senior Scientist, Advanced Ceramics, University of Bremen",735,14,18
-"Young, Daniel","Assistant Professor of Political Science, Georgia State University",691,9,8
-"Lawrence, Christopher",Department of Biological Sciences,5293,39,53
-"Rakison, David","Associate Professor, Carnegie Mellon University",3215,30,45
-"Wilcox, Gary",John A. Beck Centennial Professor in Communication,968,18,25
-"Neander, Karen","Professor, Department of Philosophy, Duke University",2639,19,23
-"Tyler, Leonard",University of Texas at Tyler,239,8,7
-"Bernhardt, Emily","Professor of Biogeochemistry, Duke University",24212,64,127
-"Gholz, Eugene","Associate Professor of Political Science, University of Notre Dame",1241,17,23
-"Arnsten, Amy",Professor of Neuroscience,30356,83,159
-"Orians, Colin","Professor of Biology, Tufts University",4983,42,90
-"Durant, John","Associate Professor of Civil and Environmental Engineering, Tufts University",3301,29,51
-"Cronin-Golomb, Mark",Professor of Biomedical Engineering,7764,46,103
-"Voldman, Joel","Professor of Electrical Engineering, Massachusetts Institute of Technology",7992,40,73
-"Dowell, Earl",未知關係機構,21756,71,307
-"Baker, Samuel",The University of Pennsylvania,493,7,4
-"Timmins, Christopher","Professor of Economics, Duke University",4440,30,54
-"Marcellino, William","Senior Behavioral & Social Scientist, RAND Corp.",270,8,7
-"Fukami, Tadashi","Associate Professor of Biology, Stanford University",9603,43,73
-"Chow, Rosalind",Associate Professor of Organizational Behavior,866,12,14
-"Kesten, Onur",Carnegie Mellon University,1241,17,22
-"Lopez, Alberto",Universidad Complutense de Madrid,921,11,13
-"Johnson, Steven","Professor of Applied Mathematics and Physics, Massachusetts Institute of Technology",56411,81,265
+"Roberts, Brian","Senior Scientist, HudsonAlpha Institute",2640,17,24
+"Ciperiani, Mirela",University of Texas at Austin,100,5,4
+"Bacon, Neil",Afiliação desconhecida,394,8,8
+"Vilaros, Teresa",Texas A&M,790,8,6
+"Dey, Abhishek","Professor, Indian Association for the Cultivation of Science",4401,40,88
+"Wynn, Karen","Professor Emerita of Psychology and Cognitive Science, Yale University",13252,44,65
+"Sullivan, Lauren",Assistant Professor - University of Missouri,1484,15,17
+"Jackendoff, Ray","Professor of Philosophy, Tufts University",73765,79,207
+"Klenk, Paul","Research Square, Duke University",122,4,4
+"Bialek, William",Princeton University,27739,70,157
+"McCann, Robert",University of Toronto,6000,31,54
+"Yucel, Sakir",所属不明,261,9,8
+"Shea, Andrew",University of Florida,423,13,14
+"Chan, Deland",Stanford University,15,2,0
+"Chiu, Charles","Professor of Laboratory Medicine and Medicine / Infectious Diseases, University of California, San",8014,45,90
+"Nunes, Rodrigo","Professor de Biologia Evolutiva do Desenvolvimento, UFRJ",2037,16,21
+"Upson-Saia, Kristi",Occidental College,11,2,0
+"Johnsen, Sonke","Professor of Biology, Duke University",5796,40,100
+"Stuart, David","Oxford University, Diamond Light Source, Insruct-ERIC",49968,109,377
+"McDaniel, ","William L. Weiss Professor, Computer Science and Engineering, Penn State Unviersity",28209,70,167
+"Remick, Elizabeth","Associate Professor of Political Science, Tufts University",224,6,6
+"Perron, Taylor",Massachusetts Institute of Technology,3797,31,53
+"Brady, David","Michael J. Fitzpatrick Endowed Professor of Photonics, Duke University",14109,61,230
+"Cai, Jie",Drexel University,2029,16,22
+"Brown, Margaret","Emeritus Professor of Mathematics Education, King's College London",4570,28,62
+"Thomas, John",Professor of Public Management and Policy,3909,25,45
+"Chen, Guangliang",San Jose State University,904,13,14
+"Andrews, Peter","Arthur Jackson Professor of Biomedical Science, The University of Sheffield",20610,70,174
+"Dolan, Jill","Annan Professor of English and Theatre, Princeton University",4083,23,32
+"Blatti, Stephan","Chair and Associate Professor of Philosophy, University of Memphis",262,6,6
+"Turner, Kathleen",Drexel University,133,2,1
+"Anderson, John","Professor of Psychology, Carnegie Mellon University",140827,144,581
+"Mitchell-Olds, Thomas","Professor of Biology, Duke University",24292,86,168
+"Schultz, Anna",DTU,1151,20,27
+"Nelson, Scott","Muirhead Professor of Obstetrics & Gynaecology, University of Glasgow",13941,64,143
+"Colvin, Vicki",Brown University,44589,87,167
+"Kim, Hae-Young","Senior Research Scientist, New England Research Institutes",257175,210,1917
+"Arbogast, Todd","Professor of Mathematics, University of Texas at Austin",6119,37,76
+"El Gamal, Abbas","Electrical Engineering, Stanford University",33019,86,226
+"Klemanski, David","Yale University, Columbia University",917,11,11
+"Ahern, Jennifer","University of California, Berkeley",11950,52,96
+"Peterson, Larry",ONF / Princeton University,41661,75,163
+"Boaler, Jo","Professor of Mathematics Education, Stanford University",13539,45,73
+"Coleman, David","Dublin Dental University Hospital, University of Dublin, Trinity College Dublin, Ireland",14812,67,174
+"Rose, Mark",Georgetown University,15793,55,85
+"Goetz, Andrew",University of Denver,2352,24,36
+"Moaveni, Babak",Tufts University,1978,26,38
+"Karadkar, Unmil",Assistant Professor,352,10,11
+"Markert, John","Professor of Physics, The University of Texas at Austin",6873,39,80
+"Perelman, Les","Director of Writing Across the Curriculum, Retired and Research Affilate MIT",354,9,9
+"Burkett, Andrew","MD, Division of Resipirology, The Ottawa Hospital",118,4,4
+"Brown, Norman",University of Alberta,3462,31,55
+"Brooks, David",Professor of PET Clinical Science Newcastle University UK,97230,156,742
+"Marchesi, Simone",Universitat de Barcelona,73,4,2
+"Anna, Shelley",Professor of Chemical Engineering,7680,26,42
+"Tweed, Thomas",University of Notre Dame,2892,17,24
+"Shapiro, Karin",Duke University,134,4,3
+"Scala, Elizabeth","Professor of English, University of Texas",380,10,11
+"Yao, Yuan","Assitant Professor of Applied Chemistry, National University of Kaohsiung",3185,30,38
+"Albertini, David","Ovistagen, LLC CEO",14503,62,155
+"Dell'Antonio, Andrew","Distinguished Teaching Professor of Musicology, University of Texas at Austin",261,8,5
+"Needham, Amy","Vanderbilt University, Peabody College",3815,26,42
+"Walker, Graham","American Cancer Society Professor, Massachusetts Institute of Technology",44014,96,298
+"Dayal, Kaushik",Carnegie Mellon University,873,16,27
+"Goodridge, Shane","University of California, Irvine",2,1,0
+"Duncan, James","Professor of Biomedical Engineering, Radiology, Electrical Engineering, Yale University",16099,61,201
+"Witchel, Emmett","Professor of Computer Science, The University of Texas at Austin",6682,36,60
+"Gao, Zhiyong","Professor & Vice Dean, School of Minerals Processing & Bioengineering, Central South University",1616,23,32
+"Uyenoyama, Marcy",Duke University,3427,34,46
+"Tauchen, George",Professor of Economics,19603,46,74
+"Kelly, Tom",UCL,199,5,3
+"Pena, Jorge","Associate professor, University of California, Davis",1822,19,26
+"Niou, Emerson",Duke University,2583,27,38
+"Bass, Gary",Royal College of Surgeons in Ireland,229,7,5
+"Park, Minjung","Associate Professor, Department of Economics, Ewha Womans University",462,7,6
+"Bovik, Alan","Cockrell Family Regents Endowed Chair Professor, The University of Texas at Austin",97767,114,476
+"Chudgar, Neil",independent scholar,15,1,1
+"Joshi, Badal","California State University, San Marcos",331,9,8
+"Canizares-Esguerra, Jorge",Alice Drysdale Sheffield Professor of History. University of Texas-Austin,3697,23,42
+"Sheffi, Yossi","professor of Engineering Systems, MIT",7281,29,45
+"Subramanian, Devika",Rice University,3753,27,55
+"Garrison, James","Professor of Aeronautics and Astronautics, Purdue University",3123,29,54
+"Joseph, Paul","University of California, Berkeley",1532,8,7
+"Sounny-Slitine, Anwar","Geography, University of Florida",65,4,2
+"Westra, Joel",Calvin University,50,2,2
+"Williams, Robert","Reader in Molecular and Cellular Neuroscience, University of Bath, UK",8558,37,63
+"Lowood, Henry",Stanford University,1632,20,31
+"Dabbish, Laura","Associate Professor, Carnegie Mellon University",9062,35,56
+"Gerstlauer, Andreas","Associate Professor of Electrical and Computer Engineering, The University of Texas at Austin",4368,32,84
+"Levine, Stephen","University of Haifa, Israel",3757,33,74
+"Li, Zhiqiang","Senior Scientist, Sema4-Mount Sinai Genomics Inc.",1185,7,7
+"Fernald, Russell","Professor of Biology, Stanford University",15986,66,185
+"Sheehan, Thomas","Professor, Stanford University",2180,23,49
+"Rowley, Clarence","Professor of Mechanical and Aerospace Engineering, Princeton University",15530,49,112
+"Barker, James","Professor of Organizational Behavior, Dalhousie University",5226,20,24
+"Bullock, Barbara",The University of Texas at Austin,1614,19,31
+"Sinopoli, Bruno","Electrical and Systems Engineering, Washington University in St Louis",13357,50,104
+"Swendsen, Robert","Professor of Physics, Carnegie Mellon University",24907,50,108
+"Bar, Neta","PhD Student, Yale University",12,1,1
+"Cohen, Sarah","Assistant Professor, UNC - Chapel Hill",1116,12,13
+"Aaker, Jennifer","General Atlantic Professor, Stanford University",30738,48,66
+"Sharp, Richard",Mayo Clinic,10947,37,89
+"Schiebinger, Londa","John L. Hinds Professor of History of Science, Stanford University",12100,40,84
+"Parent, Sabrina","Research Associate, FNRS ULB",43,3,2
+"Younger, Jarred",University of Alabama at Birmingham,4275,28,52
+"Jacobsohn, Gary","Professor of Government, University of Texas ar Austin",1209,17,22
+"Khardon, Roni","Professor of Computer Science, Indiana University, Bloomington",2561,28,51
+"Skibba, Candace","Associate Teaching Professor, Department of Modern Languages, Carnegie Mellon University",1,1,0
+"Olson, Mark",Franklin & Marshall College,19435,47,116
+"Guest, James",University of Miami,4668,33,45
+"Sayle, ","Reader, University of Kent",4928,31,72
+"Stein, Robert","Professor of political science, Rice University",5825,36,72
+"Verdi, Rodrigo",MIT Sloan School of Management,8166,22,27
+"Subramanian, Shoba","Director of Curriculum and Educational Initiatives, University of Michigan Medical School, Ann Arbor",209,6,5
+"Bender, Abby",Sacred Heart University,22,2,1
+"Gildin, Eduardo","Associate Professor, Texas A&M University",891,18,33
+"Seeger, ","Professor of Computer Sciene, University of Marburg",15259,41,86
+"Arrington, Nathan",Princeton University,209,7,4
+"Ling, Hao","Professor of Electrical and Computer Engineering, The University of Texas at Austin",10837,54,173
+"Barbastathis, ","Professor of Mechanical Engineering, Massachusetts Institute of Technology",8063,47,143
+"Tonon, Fulvio","University of Udine, Italy; Tonon USA and Laboratorio Rocce e Ricerca Tonon",2462,28,50
+"Wasserman, Daniel","Associate Professor of Electrical and Computer Engineering, University of Texas Austin",4576,32,66
+"Phillips, Beth",Florida State University,4980,34,50
+"White, Charles","Professor of Pathology, University of Texas Southwestern Medical Center",18755,68,157
+"Holm, Jakob",Aarhus University,18,2,1
+"Sagarin, Raphael","Biosphere 2, University of Arizona",3305,21,27
+"Smith-Lovin, Lynn","Robert L. Wilson Professor of Arts and Sciences, Duke University",25873,40,62
+"Brown, James","Professor Emeritus of Biology, University of New Mexico",127236,150,692
