@@ -1,1 +1,1214 @@
-name,affiliation,citations,hindex,i10index
+name,affiliation,citations,hindex,i10index,quality,n_ratings,easiness,department,college
+"Peterson, Larry",ONF / Princeton University,41661,75,163, ,0, ,Computer Science,Princeton
+"Mitchell, Thomas","Molecular Genetics and Microbiology, Duke University",10071,57,90,2.5,1,2.0,English,CMU
+"Carter, Patrick","Professor of Biology, Washington State University",3773,29,50,4.6,9,4.0,Fine Arts,Tufts
+"Marszalek, Piotr",Duke University,10191,43,79,4.5,1,4.0,Engineering,Duke
+"Westra, Joel",Calvin University,50,2,2,5.0,1,1.0,International Studies,UChicago
+"Thomas, John",Professor of Public Management and Policy,3909,25,45,4.6,13,3.3,Physics,Duke
+"Burris, Ethan",University of Texas at Austin,4302,15,15, ,0, ,Management,UTexas
+"Fong, Christina","Senior Research Scientist, Carnegie Mellon University",2617,15,15,3.5,6,2.8,Economics,CMU
+"Adams, Michael","University of California, Riverside",11805,56,112, ,0, ,English,UTexas
+"Wood, John",Afiliação desconhecida,56939,119,383,3.2,2,2.5,Chemistry,Yale
+"Finger, Susan","Professor, Civil & Environmental Engineering, Carnegie Mellon University",3052,28,48,5.0,6,3.5,Engineering,CMU
+"Harrison, Daniel","Associate professor of Chemistry, Virginia military institute",693,12,19,4.2,5,2.8,Music,Yale
+"Waller, Travis","Deputy Dean(Research), UNSW; Advisian Chair of Transport Innovation; Executive Director (rCITI)",6379,43,133,4.0,1,3.0,Engineering,UTexas
+"Mukherjee, Sayan","Duke University, MIT",37929,49,121,2.8,4,2.0,Mathematics,Duke
+"Banerjee, Sanjay","Associate Professor, National Institute of Pharmaceutical Education and Research (NIPER), Guwahati",4994,34,69,4.5,1,3.0,Engineering,UTexas
+"Valentine, Ann","Professor of Chemistry, Temple University",3164,26,38,4.7,3,1.7,Chemistry,Yale
+"Acquisti, Alessandro",Carnegie Mellon University,23625,65,126,4.4,8,2.6,Information Science,CMU
+"Reder, Lynne","Professor of Psychology, Carnegie Mellon University",15798,58,113,1.8,2,2.5,Psychology,CMU
+"Knecht, Amanda","Mathematics and Statistics, Villanova University",25,3,0,4.5,1,4.0,Mathematics,Rice
+"Finn, Gavin","Professor of the Practice, Tufts University; Kaon Interactive",129,7,4,5.0,1,2.0,Entrepreneurship,Tufts
+"Alawiyah, Tuti",University of Muhammadiyah Jakarta,241,7,5, ,0, ,Social Work,UTexas
+"Rajkumar, Raj","George Westinghouse Professor of Electrical and Computer Engineering, Carnegie Mellon University",22440,70,189,2.5,2,2.5,Engineering,CMU
+"Levin, Golan","Associate Professor of Electronic Art, Carnegie Mellon University",1211,16,19,4.8,2,3.0,Fine Arts,CMU
+"White, Hylton",University of the Witwatersrand,435,11,11,4.9,9,2.0,Social Science,UChicago
+"Gao, Zhiyong","Professor & Vice Dean, School of Minerals Processing & Bioengineering, Central South University",1616,23,32,3.5,23,4.2,Mathematics,Rice
+"Ricketts, David",North Carolina State University,1586,18,37,1.5,1,2.0,Engineering,CMU
+"Gillespie, Michael",University of South Florida Sarasota-Manatee,1386,13,13,4.4,12,1.7,Political Science,Duke
+"Mortensen, Karoline","Associate Professor of Health Management and Policy, University of Miami",788,16,21, ,0, ,Political Science,Rice
+"Maas, Michael","Senior Scientist, Advanced Ceramics, University of Bremen",735,14,18,2.5,1,4.0,History,Rice
+"Hamermesh, Daniel","Emeritus Professor of Economics, University of Texas at Austin",25573,73,172,2.7,29,1.9,Economics,UTexas
+"Barker, James","Professor of Organizational Behavior, Dalhousie University",5226,20,24,4.9,9,2.3,History,Duke
+"Mattingly, Jonathan","Professor of Mathematics and Statistical Science, Duke University",3666,28,53,4.1,5,2.6,Mathematics,Duke
+"Miller, Robert","Professor, Computer Science, MIT",39499,90,427,4.3,3,2.7,Computer Science,MIT
+"Leal, David","Professor of Government, University of Texas at Austin; Senior Fellow, Hoover Institution",2602,24,47,3.8,3,2.7,Government,UTexas
+"Shapiro, Karin",Duke University,134,4,3,4.7,19,3.6,History,Duke
+"Morizio, James","Adjunct Associate Professor of Electrical and Computer Engineering, Duke University",1007,13,14,1.5,3,3.7,Electrical Engineering,Duke
+"Stacey, Andrew","Assistant Professor, Ocular Oncology, Department of Ophthalmology, University of Washington",396,11,11,3.0,1,2.0,Mathematics,Stanford
+"Jacob, Robert","Professor of Computer Science, Tufts University",14078,52,103,3.3,10,3.9,Computer Science,Tufts
+"Nelson, Scott","Muirhead Professor of Obstetrics & Gynaecology, University of Glasgow",13941,64,143,4.0,1,2.0,English,UTexas
+"Neander, Karen","Professor, Department of Philosophy, Duke University",2639,19,23,3.4,4,3.0,Philosophy,Duke
+"Sutner, Klaus",Carnegie Mellon University,1468,19,32,4.1,11,2.5,Computer Science,CMU
+"Jackendoff, Ray","Professor of Philosophy, Tufts University",73765,79,207,2.8,4,1.5,Philosophy,Tufts
+"Mueller, Berndt","Professor of Physics, Duke University",28869,77,311,2.5,1,1.0,Physics,Duke
+"Cox, Steven",Anthony Nolan,2025,15,21,4.2,4,3.5,Mathematics,Rice
+"Buehler, Markus",Massachusetts Institute of Technology,26522,83,325, ,0, ,Engineering,MIT
+"Griffin, Terry",Kansas State University,1016,17,29,3.5,13,2.6,Languages,Harvard
+"Bloch, Corinne",Marquette University,69,5,1,5.0,2,3.0,Philosophy,UChicago
+"Chow, Rosalind",Associate Professor of Organizational Behavior,866,12,14,3.2,3,2.0,Business,CMU
+"Murray, Brad",University of Technology Sydney,3794,35,71,3.7,9,4.2,Environmental Science,Duke
+"Whitmire, Kenton",Rice University,7311,47,158,4.2,5,3.4,Science,Rice
+"Cook, James","Associate Professor of Sociology, University of Maine at Augusta",17225,5,2,2.9,19,3.8,Sociology,Duke
+"Jafari, Amir","Head of ARM lab, Assistant Professor of Mechanical Engineering Department UTSA",2123,16,21,4.7,9,3.1,Mathematics,Duke
+"Klenk, Paul","Research Square, Duke University",122,4,4, ,0, ,Electrical Engineering,Duke
+"Sorensen, Erik","Professor of Physics, McMaster University",2917,30,55,4.9,4,3.2,Chemistry,Princeton
+"Porter, Lisa","Professor of Materials Science and Engineering, Carnegie Mellon University",2893,27,55,2.6,4,2.5,Engineering,CMU
+"Jaffe, Richard","Research Scientist, NASA Ames Research Center",10039,49,108,4.0,5,3.4,Religious Studies,Duke
+"Massoud, Hisham",Duke University - Dept of Elec and Comp Eng,2609,22,45,3.2,15,2.4,Engineering,Duke
+"Riggsby, Andrew","Professor of Classics, University of Texas at Austin",1061,14,15,3.8,2,2.0,Classics,UTexas
+"White, Ismail",Duke University,1736,16,20,5.0,1,3.0,Political Science,UTexas
+"Chartrand, Tanya",Duke University,26073,48,76,4.9,4,4.8,Psychology,Duke
+"Sullivan, Lauren",Assistant Professor - University of Missouri,1484,15,17,4.8,10,3.5,Social Science,Tufts
+"Ling, Hao","Professor of Electrical and Computer Engineering, The University of Texas at Austin",10837,54,173,5.0,2,3.5,Engineering,UTexas
+"Heller, Wendy","Professor, Psychology, Department, University of Illinois, Champaign, IL",10627,53,99,5.0,2,4.0,Music,Princeton
+"Fowler, Joseph","Research Scientist, US National Institute of Standards and Technology",8521,45,99,4.0,1,2.0,Physics,Princeton
+"Wu, Sue-Mei","Professor of Chinese Studies, Carnegie Mellon University",192,7,5,4.2,2,2.5,Languages,CMU
+"Bruegge, Bernd","Professor, Computer Science, Technische Universität München (Technical University Munich)",5629,34,95,3.5,4,2.5,Computer Science,CMU
+"Vangelisti, Anita",The University of Texas at Austin,6891,40,70,5.0,1,3.0,Communication,UTexas
+"Sayle, ","Reader, University of Kent",4928,31,72,2.6,8,3.1,Writing,Duke
+"Muchlinski, Magdalena",Oregon Health and Science University,370,10,11,5.0,2,2.5,Anthropology,UTexas
+"Kelly, Michael","BC Medical Director, LifeLabs",13145,62,213, ,0, ,Chemistry,Princeton
+"Dabbish, Laura","Associate Professor, Carnegie Mellon University",9062,35,56,2.5,2,3.0,Information Science,CMU
+"Rao, Ramesh","Department of Electrical and Computer Engineering, University of California San Diego",12601,53,139,3.1,4,2.2,Finance,UTexas
+"Weinstein, Steven","Department Head and Professor of Chemical Engineering, Rochester Institute of Technology",1336,20,32,3.0,1,4.0,Philosophy,Princeton
+"Burnside, Craig","Mary Grace Wilson Professor, Duke University",15122,38,53,3.3,11,2.7,Economics,Duke
+"Bell, John",Senior Scientist Ottawa Hospital Research Institute,25968,76,244, ,0, ,Computer Science,UChicago
+"McKinley, Scott",Tulane University,590,13,19,3.7,17,2.2,Mathematics,Duke
+"Goldberg, Ariel","Associate Processor of Psychology, Tufts University",314,10,10,4.0,1,4.0,Psychology,Tufts
+"Meyer, ",University of Western Ontario,101190,67,103,1.7,11,1.2,Chemistry,UTexas
+"Huettel, Lisa",Duke University,333,9,9,4.7,18,2.8,Engineering,Duke
+"Thompson, Shirley","Associate Professor of Natural Resources, University of Manitoba",931,17,30, ,0, ,History,UTexas
+"Kaster, Robert","Professor Classics, Princeton University",2808,20,30,3.5,5,2.4,Classics,Princeton
+"Nelson, Deborah",Associate Professor,10367,45,107,4.0,4,4.2,Languages,Rice
+"Kahn, Joseph","Professor of Electrical Engineering, E. L. Ginzton Laboratory, Stanford University",29178,69,223,1.0,1,2.0,Engineering,Stanford
+"Miller, David",所属不明,105321,167,808,5.0,1,4.0,Engineering,MIT
+"Kuc, Roman","Professor of Electrical Engineering, Yale University",4970,36,71,1.1,4,3.0,Engineering,Yale
+"Katz, Daniel","NCSA, CS, ECE, iSchool @ UIUC",6063,35,85,4.5,1,3.0,Mathematics,Princeton
+"Daniels, Brian",Rutgers University,959,16,18,4.8,2,3.5,Languages,Duke
+"Lee, Jung-Min",Harvard University,1579,19,23, ,0, ,Music,Duke
+"Goetz, Andrew",University of Denver,2352,24,36,5.0,1,5.0,Mathematics,Duke
+"Duchamp, James","Professor of Chemistry, Emory & Henry College",3295,24,31,2.6,15,2.7,Science,Harvard
+"Perron, Taylor",Massachusetts Institute of Technology,3797,31,53,5.0,2,3.5,Geology,MIT
+"Glaser, James","Professor of Political Science, Tufts University",1502,15,17,4.3,33,3.2,Political Science,Tufts
+"Smith, Martin",University of York,7170,37,76,5.0,2,2.5,Economics,Duke
+"Chamberlain, Page","Professor of Earth System Sciences, Stanford University",15717,69,186,5.0,1,3.0,Geology,Stanford
+"Keating, Elizabeth","Senior Scientist, Los Alamos National Laboratory",1450,24,33, ,0, ,Linguistics,UTexas
+"Martin, Lewis",University of Sydney,821,6,5,5.0,1,4.0,Geography,Stanford
+"Bialek, William",Princeton University,27739,70,157,4.6,8,2.9,Physics,Princeton
+"Sylvie, George","Associate Professor Emeritus of Journalism, University of Texas at Austin",1054,16,23,3.0,3,3.0,Journalism,UTexas
+"Cole, Jennifer",University of Chicago,11010,37,59,3.5,9,2.3,Not Specified,UChicago
+"Stein, Robert","Professor of political science, Rice University",5825,36,72,5.0,1,2.0,Political Science,Rice
+"Hayes, John",Scotland,38201,88,236,2.9,14,3.4,Psychology,CMU
+"Maly, Wojciech",CMU,10863,48,142, ,0, ,Engineering,CMU
+"Sterrett, Susan",Curtis D. Gridley Distinguished Professor of History and Philosophy of Science,361,10,12,2.5,1,4.0,Philosophy,CMU
+"Boone, Catherine","Professor of Comparative Politics, London School of Economics and Political Science",4378,29,39,4.0,1,4.0,Political Science,UTexas
+"Sorensen, Jesper","Jeffe Professor of Organizational Behavior, Stanford University",8534,30,40, ,0, ,Sociology,Stanford
+"Seeger, ","Professor of Computer Sciene, University of Marburg",15259,41,86,3.3,3,3.3,Languages,UTexas
+"Brackett, John","Music Instructor, Vance-Granville Community College",110,4,3,5.0,1,5.0,Music,Duke
+"Levitt, Michael","Structural Biology, Stanford University",39897,92,185, ,0, ,Biology,Stanford
+"Canuto, Marcello",Tulane University,1002,13,19,2.6,9,3.1,Anthropology,Yale
+"Strauss, Robert","Professor of Economics and Public Policy, Carnegie Mellon",3705,23,38,2.9,4,3.5,Political Science,CMU
+"Tu, Loring","Professor of Mathematics, Tufts University",4590,13,19,4.5,15,3.2,Mathematics,Tufts
+"Cederbaum, Carla","Professor, Mathematics Department, University of Tübingen",270,10,10,4.4,9,1.9,Mathematics,Duke
+"Yang, Jun","Professor, School of Automation, Southeast University",6315,31,61,5.0,2,4.0,Computer Science,Duke
+"Constantin, Peter",Princeton University,17893,65,159,4.0,1,3.0,Mathematics,UChicago
+"Richman, Laura",Duke University,10240,25,37,4.3,6,3.8,Psychology,Duke
+"Rose, Mark",Georgetown University,15793,55,85,3.0,2,3.0,Biology,Princeton
+"Rakison, David","Associate Professor, Carnegie Mellon University",3215,30,45,4.7,16,3.2,Psychology,CMU
+"Botello, Jesus",University of Delaware,14,2,0,5.0,1,2.0,Languages,UChicago
+"Carter, Phillip","Associate Professor of Linguistics, Florida International University",645,11,13,4.5,3,3.7,English,Duke
+"Armitage, Bruce",Carnegie Mellon University,7152,47,96,4.9,10,2.7,Chemistry,CMU
+"Brady, David","Michael J. Fitzpatrick Endowed Professor of Photonics, Duke University",14109,61,230,4.0,12,3.8,Electrical Engineering,Duke
+"King, Sarah","Reader in Behavioural Neuroscience, University of Sussex",2405,25,31, ,0, ,Humanities,MIT
+"Johnston, Brian","CEO, Somagenics",2314,26,49,5.0,1,2.0,Theater,CMU
+"Bovik, Alan","Cockrell Family Regents Endowed Chair Professor, The University of Texas at Austin",97767,114,476,5.0,1,2.0,Engineering,UTexas
+"Merton, Robert","Sociology, Columbia University",205666,130,481, ,0, ,Finance,MIT
+"Avigad, Jeremy","Professor of Philosophy and Mathematical Sciences, Carnegie Mellon University",2985,29,57,4.4,5,2.6,Philosophy,CMU
+"Butler, Laurie",University of Reading,3136,30,40,2.9,13,1.7,Chemistry,UChicago
+"Jagoda, Patrick","Professor, University of Chicago",437,12,15,5.0,1,3.0,English,Duke
+"Jones, Lee",Memorial Sloan Kettering Cancer Center,20884,79,263, ,0, ,Art,Harvard
+"Jacobson, Mark",Stanford University,29161,78,170,5.0,1,3.0,Engineering,Stanford
+"Olson, Brandon",Boston University,264,8,5, ,0, ,Not Specified,Tufts
+"Iwasaki, Yasufumi","Associate Teaching Professor, Carnegie Mellon University",45,3,1,2.5,1,2.0,Languages,CMU
+"Wang, Xiaoyang",University of Gothenburg,8053,49,104, ,0, ,Mathematics,Duke
+"Younger, Jarred",University of Alabama at Birmingham,4275,28,52, ,0, ,Medicine,Stanford
+"Fernald, Russell","Professor of Biology, Stanford University",15986,66,185,2.8,4,2.5,Biology,Stanford
+"Schultz, Anna",DTU,1151,20,27, ,0, ,Music,Stanford
+"Amador, Carlos","Professor of Chemistry, Facultad de Química, Universidad Nacional Autónoma de México",1780,18,24,4.3,7,4.4,Languages,UTexas
+"Meng, Chen","Department of Botany and Plant Sciences, University of California Riverside",12382,20,23,4.0,1,3.0,Biology,Duke
+"Barrett, Ashley",Baylor University,213,9,8,3.9,4,2.8,Communication,UTexas
+"Williams, Blythe","Evolutionary Anthropology, Duke University",1296,15,20,4.8,3,3.7,Anthropology,Duke
+"Collins, Leslie","Professor of Electrical and Computer Engineering, Duke University",5220,35,132,3.0,4,3.2,Engineering,Duke
+"Brockmann, Stephen","Professor of German, Carnegie Mellon University",696,11,15,4.0,1,4.0,History,CMU
+"Nijhout, H. Frederik",Duke University,18138,71,187,2.7,5,2.4,Biology,Duke
+"Johnson, Andrew",NIH,24730,78,169,3.5,4,1.8,Fine Arts,CMU
+"Garrison, James","Professor of Aeronautics and Astronautics, Purdue University",3123,29,54,5.0,1,4.0,Not Specified,UTexas
+"McCarthy, Chris","Senior Lecturer, Swinburne University of Technology",830,12,18,5.0,1,3.0,Education,UTexas
+"Petrosino, Anthony",WestEd,4675,33,57,3.0,1,4.0,Education,UTexas
+"Teixidor I Bigas, Montserrat","Professor of Mathematics, Adjunct Professor of Education, Tufts University",810,15,25,2.7,15,3.3,Mathematics,Tufts
+"Blelloch, Guy","Professor of Computer Science, Carnegie Mellon University",14655,56,140,3.6,4,2.2,Computer Science,CMU
+"Vidas, Tim",Carnegie Mellon Univeristy,2609,18,22,4.5,4,2.0,Information Science,CMU
+"Monin, Benoit",Stanford University,7047,37,51,3.9,7,2.6,Psychology,Stanford
+"Flynn, Matthew",Newcasle University Business School,1012,18,27,2.2,3,2.3,Sociology,UTexas
+"Fisher, Anna","Associate Professor, Department of Psychology, Carnegie Mellon University",2133,22,34,3.0,2,2.0,Psychology,CMU
+"Grossberg, Rami","Professor of mathematics, Carnegie Mellon University",1092,19,25,3.2,8,2.5,Mathematics,CMU
+"Henderson, Linda","Professor of Art History, The University of Texas at Austin ",1652,16,24,4.8,2,4.5,Art History,UTexas
+"Dayal, Kaushik",Carnegie Mellon University,873,16,27,1.5,1,4.0,Engineering,CMU
+"Cohen, Mark","Professor of Psychiatry Neurology Psychology, UCLA",27862,73,175, ,0, ,Social Science,Princeton
+"Scheutz, Matthias","Professor of Computer Science and Cognitive Science, Tufts University",7374,45,159, ,0, ,Computer Science,Tufts
+"Shapiro, Ian","Sterling Professor of Politcal Science, Yale University",12602,46,96,4.0,3,3.0,Political Science,Yale
+"Cook, David","Professor of Medicine and Medical Education, Mayo Clinic College of Medicine and Science",20660,73,154,4.8,7,2.7,Theology,Rice
+"Uka, Arban",Epoka University,33,4,1,4.5,1,4.0,Physics,UTexas
+"Baker, Paul","Professor of English Language, Dept of Linguistics and English Language, Lancaster University",10469,41,66,2.1,16,2.5,Geology,Duke
+"Batory, Don",University of Texas at Austin,16624,62,158, ,0, ,Computer Science,UTexas
+"Groeger, Joachim",Nike Sport Research Lab,47,2,1,3.5,3,2.7,Economics,CMU
+"Needham, Amy","Vanderbilt University, Peabody College",3815,26,42,3.7,3,4.0,Psychology,Duke
+"Dubrawski, Artur",Carnegie Mellon University,1137,15,28,5.0,3,2.0,Information Science,CMU
+"Baranger, Harold",Duke University,10695,55,128,4.5,1,4.0,Physics,Duke
+"Bayern, Shawn",Florida State University,488,13,18,5.0,1,2.0,Law,Duke
+"Tauchen, George",Professor of Economics,19603,46,74,2.0,6,1.5,Economics,Duke
+"Joyner, Valencia","Associate Professor of Electrical and Computer Engineering, Tufts University",718,14,23,3.1,6,2.2,Engineering,Tufts
+"Kwon, Soonsik","Associate Professor, KAIST",473,12,13, ,0, ,Mathematics,Princeton
+"Zimmerman, John","Professor, Human-Computer Interaction Institute, Carnegie Mellon Unviersity",13794,48,115,3.5,1,2.0,Computer Science,CMU
+"Johnson, Joel","Professor,Dept. of Electrical and Computer Engineering, The Ohio State University",7448,41,123,1.8,2,3.0,Geology,UTexas
+"Banner, Jay",University of Texas,7340,42,66,3.9,14,3.2,Science,UTexas
+"Dzombak, David",Carnegie Mellon University,13830,45,127, ,0, ,Engineering,CMU
+"Ramirez, Manuel","Hospital Niño Jesus, Johns Hopkins, CIEMAT",5050,37,106,1.9,20,1.8,Psychology,UTexas
+"Aziz, Khalid","Energy Resources Engineering, Stanford University",18500,60,167,3.0,2,1.0,Geology,Stanford
+"Massey, Cade",University of Pennsylvania,1185,13,15,4.0,1,3.0,Economics,Duke
+"Maxwell, Angie","Associate Professor of Political Science, University of Arkansas",278,9,9,5.0,1,5.0,English,UTexas
+"Kotovsky, Kenneth","Professor of Psychology, Carnegie Mellon University",4803,29,46,3.5,15,2.9,Psychology,CMU
+"Mitchell-Olds, Thomas","Professor of Biology, Duke University",24292,86,168,3.9,5,3.6,Biology,Duke
+"Simons, Mandy",Carnegie Mellon University,2355,18,23,5.0,1,5.0,Philosophy,CMU
+"Kruse, Mark C","Department of Medicinal Chemistry and Molecular Pharmacology, Purdue University",340,12,13,4.5,3,3.3,Physics,Duke
+"Boyer, John",Authentix Inc,8700,36,44,4.0,3,3.0,History,UChicago
+"Kim, Tae Wan",Columbia University,8790,45,65,4.2,3,3.7,Business,CMU
+"Roberts, Hugh","Professor of North African & Middle Eastern History, Tufts University",1225,19,34,3.7,3,3.3,History,Tufts
+"Chen, Xiaohong","Professor of Economics, Yale University",10243,45,107,1.0,1,2.0,Economics,Yale
+"Dannenberg, Roger","Professor of Computer Science, Carnegie Mellon University",7874,47,127,5.0,1,5.0,Computer Science,CMU
+"Brunnermeier, Smita",Princeton University,1867,4,3,5.0,5,3.6,Economics,Princeton
+"Harris, Lasana",University College London,2903,20,25,2.0,3,2.0,Psychology,Duke
+"Collins, Linda",Director of The Methodology Center and Distinguished Professor of Human Development & Family Studies,18446,63,131,3.7,3,2.3,Mathematics,UChicago
+"Braun, Phillip","Clinical Professor of Finance, Kellogg School of Management, Northwestern University",1338,9,9,5.0,6,1.8,Business,UChicago
+"Dolgert, Stefan",Brock University,65,5,3,5.0,1,4.0,Government,Duke
+"Donahue, Neil",Carnegie Mellon University,27737,85,234,4.0,1,2.0,Engineering,CMU
+"Mohammad, Afsar",Korea University,2429,23,34,4.9,9,3.9,Asian Studies,UTexas
+"Davidson, Arnold",Afiliação desconhecida,21040,30,49,4.1,9,2.8,Philosophy,UChicago
+"Humphreys, Todd","Associate Professor of Aerospace Engineering, University of Texas at Austin",5376,41,82,1.2,2,1.0,Engineering,UTexas
+"Stehlik, Mark","Teaching Professor, Carnegie Mellon UNiversity",556,9,9,4.5,2,3.0,Computer Science,CMU
+"Das, Sourish",Chennai Mathematical Institute,462,8,6,2.3,10,4.1,Mathematics,Duke
+"Pierre, Jacques",Université de Sherbrooke,3122,28,37,5.0,5,4.2,Languages,Duke
+"Liu, Jincheng",Unknown affiliation,4830,32,48, ,0, ,East Asian Languages,Princeton
+"Campello, Daniela",Fundacão Getúlio Vargas,365,7,7,2.0,1,2.0,Political Science,Princeton
+"Kelly, Erin",University of Sydney,1411,16,19,3.4,7,2.9,Philosophy,Tufts
+"Turner, Barbara",University of Texas Health Science Center at San Antonio,13338,57,145,5.0,2,4.5,Nursing,Duke
+"Platzer, Andre","Associate Professor, Carnegie Mellon University",5441,39,85,2.0,1,3.0,Computer Science,CMU
+"Gross, John",Savant,6149,43,94,3.4,36,2.4,Economics,Duke
+"Weber, Roberto","Professor of Economics, University of Zurich",6943,37,61,3.8,6,3.3,Social Science,CMU
+"Li, Kai","Professor of computer science, Princeton university ",52553,88,285, ,0, ,Computer Science,Princeton
+"Anderson, Eric","Professor, University of Winchester",8722,44,92,2.8,12,2.7,Fine Arts,CMU
+"Koushanfar, Farinaz","Professor and Henry Booker Faculty Scholar of ECE, UC San Diego",22916,53,139,5.0,2,4.0,Engineering,Rice
+"Nelson, Robert","Senior Investigator, National Institute of Diabetes and Digestive and Kidney Diseases",97264,96,253,4.5,1,3.0,Art History,Yale
+"McGaughey, Alan",Carnegie Mellon University,8212,47,79,4.8,2,3.5,Engineering,CMU
+"Wolfe, Joel",University of Massachusetts Amherst Department of History,465,8,7,4.8,2,3.0,History,Rice
+"Christensen, Thomas","Professor of Environmental Engineering, Technical Universitry of De´nmark",28811,93,302,4.0,3,1.7,Music,UChicago
+"Kimmel, Marek","Professor of Statistics and Bioengineering, Rice University",12480,56,185,1.5,1,1.0,Mathematics,Rice
+"Rudich, Steven","Professor of Computer Science, Carnegie Mellon University",5243,25,32,3.9,9,1.4,Computer Science,CMU
+"Lu, Jie",UCLA,17033,37,82,3.7,3,3.7,Political Science,Duke
+"Sleator, Daniel","Professor of Computer Science, Carnegie Mellon University",14234,32,42,2.3,3,1.7,Computer Science,CMU
+"Katz, Joshua",DuPont Nutrition and Health,1316,16,18,4.9,9,2.6,Classics,Princeton
+"White, Laura","Associate Professor of Biostatistics, Boston University",2587,24,51, ,0, ,Business,Harvard
+"Braam, Janet","BioSciences, Biochemistry and Cell Biology, Rice University",8098,42,54,3.5,2,3.0,Biology,Rice
+"Roberts, Brian","Senior Scientist, HudsonAlpha Institute",2640,17,24,2.2,2,2.5,Political Science,UTexas
+"Roberts, Richard","Founder, TBA",22381,66,149,4.0,1,3.0,History,Stanford
+"Hitchner, Bruce",Tufts University,974,17,20,4.5,6,3.5,Classics,Tufts
+"Adsera, Alicia",Princeton University,5929,29,53,1.8,2,3.0,Economics,Princeton
+"Zimmer, Carl",Yale University,4281,32,107, ,0, ,Environmental Studies,Yale
+"Choueiri, Edgar","Professor of Applied Physics and Aerospace Engineering, Princeton University",3353,27,75,3.4,5,2.8,Engineering,Princeton
+"McCord, Paul","Postdoctoral Research Associate, Department of Fisheries and Wildlife, Michigan State University",380,11,12,3.3,70,2.2,Chemistry,UTexas
+"Lee, Greg",Australian National University,351,8,6,4.0,1,3.0,Religion,Duke
+"Clementi, Cecilia","Professor of Chemistry, Rice University",5964,38,63,4.1,5,1.6,Chemistry,Rice
+"Chan, Deland",Stanford University,15,2,0,5.0,1,4.0,Urban Studies,Stanford
+"Panagiotopoulos, A.","Susan Dod Brown Professor of Chemical and Biological Engineering, Princeton Univ.",20889,72,262,4.5,2,2.5,Chemistry,Princeton
+"Leoni, Giovanni","Professor of Mathematics, Carnegie Mellon University",2538,23,40,5.0,2,2.0,Mathematics,CMU
+"Armstrong, Nancy","English Department, Duke University",7180,28,46,3.5,2,2.5,English,Duke
+"Sliwa, Krzysztof",Tufts University,210756,205,1241,3.2,24,3.0,Science,Tufts
+"Reid, Suzanne","Centre for Brain Research, School of Biological Sciences, The University of Auckland",2225,19,24,4.3,7,4.3,English,Harvard
+"Landy, Joshua","Professor of Comparative Literature, Stanford",754,13,15,4.7,15,2.8,Languages,Stanford
+"Coleman, David","Dublin Dental University Hospital, University of Dublin, Trinity College Dublin, Ireland",14812,67,174,4.9,4,4.5,Music,Tufts
+"Marculescu, Diana",The University of Texas at Austin,7339,47,130, ,0, ,Computer Science,CMU
+"Kritzer, Joshua",Tufts University,1873,18,23,3.6,5,2.2,Chemistry,Tufts
+"Shelby, Reed",Duke Clinical Research Institute,9167,44,110, ,0, ,Health Sciences,Duke
+"Marrow, James","Professor in Energy Materials, Oxford University",5142,38,108,5.0,2,5.0,Art History,Princeton
+"Benes, Christian","Brooklyn College, CUNY",64,4,3,4.7,7,3.9,Mathematics,Tufts
+"Subramanian, Devika",Rice University,3753,27,55,4.0,2,2.5,Computer Science,Rice
+"Kim, Hae-Young","Senior Research Scientist, New England Research Institutes",257175,210,1917,4.1,5,3.2,Languages,Duke
+"Abbott, John",John Abbott Planning and University of Queensland,381,7,7,5.0,5,2.6,Biology,UTexas
+"Bernhardt, Emily","Professor of Biogeochemistry, Duke University",24212,64,127,3.1,4,2.0,Biology,Duke
+"Chen, Dongmei","Department of Geography and Planning, Queen's University",3603,21,49,2.5,1,1.0,Engineering,UTexas
+"Haverson, Haverson",University of Wisconsin-Madison,11584,29,40, ,0, ,Humanities,Rice
+"Lee, Tai-Sing","Professor of Computer Science, Carnegie Mellon University",9304,26,43,4.5,1,3.0,Computer Science,CMU
+"Dworkin Y Mendez, Kenya","Associate Professor of Hispanic Studies, Carnegie Mellon University",315,7,6,4.3,3,3.7,Ethnic Studies,CMU
+"Randall, Richard",University of St Andrews,13603,52,116,4.5,1,3.0,Music,CMU
+"Joseph, Betty","Professor of English, Rice University",247,4,4,4.5,1,4.0,English,Rice
+"Sommer, Matthew","Associate Professor of History, Stanford University",748,9,9, ,0, ,History,Stanford
+"Pei, ","Professor of Computing Science, Simon Fraser University",94652,87,255,3.8,4,3.2,Biology,Duke
+"Schmidt, Christine","Pruitt Family Endowed Chair and Department Chair of Biomedical Engineering, University of Florida",16688,56,117, ,0, ,Engineering,UTexas
+"Sepehrnoori, Kamy",Professor at The University of Texas at Austin,13464,59,296,4.4,4,3.2,Engineering,UTexas
+"Robert, Hamilton",The Hospital for Sick Children (SickKids),9340,46,117,1.0,2,1.0,Law,UTexas
+"Liu, Kang","Institute of Automation, Chinese Academy of Sciences",6055,33,66,2.8,2,4.5,Languages,Duke
+"Bass, Gary",Royal College of Surgeons in Ireland,229,7,5,4.5,8,2.6,Political Science,Princeton
+"Norman, Andrew","Principal Scientist, National Renewable Energy Laboratory",6031,38,105,3.8,6,2.7,Philosophy,CMU
+"Kappeler, Erin",Tulane University,3,1,0,4.0,2,3.5,English,Tufts
+"Gholz, Eugene","Associate Professor of Political Science, University of Notre Dame",1241,17,23,1.2,2,1.5,Not Specified,UTexas
+"Pinango, Maria",Yale University,1939,22,33,2.0,6,2.5,Psychology,Yale
+"Ghadimi, Parviz","Professor, Dept. of Maritime Engineering, Amirkabir University of Technology",1221,19,47,3.4,18,1.9,Mathematics,Duke
+"Preston, Alison",University of Western Australia,1278,20,37,5.0,1,2.0,Psychology,UTexas
+"Scott, Ridgway","Louis Block Professor, University of Chicago",19132,52,115, ,0, ,Computer Science,UChicago
+"Anand, Lallit","Rohsenow Professor of Mechanical Engineering, MIT",15135,60,129,4.0,1,3.0,Engineering,MIT
+"Haller, Gary","Department of Chemical Engineering, Yale University",11778,61,193,1.0,1,5.0,Chemical Engineering,Yale
+"Mellet, ","Professor of Organic Chemistry, University of Seville",7921,49,178,1.9,5,1.6,Mathematics,UTexas
+"Jamal, Amaney",Princeton University,3823,31,49,3.7,3,2.7,Political Science,Princeton
+"Nelson, Charles",Harvard,43313,112,395,2.2,2,5.0,German,Tufts
+"Thomas, Sam","school of management studies, cochin university of science and technology",519,11,11,4.6,7,3.3,Chemistry,Tufts
+"Grauman, Kristen","Professor of Computer Science, University of Texas at Austin",20778,72,143,5.0,2,4.0,Computer Science,UTexas
+"Borcea, Liliana",University of Michigan,3544,27,44,3.0,2,2.5,Mathematics,Rice
+"Ahern, Jennifer","University of California, Berkeley",11950,52,96,4.0,12,2.8,Writing,Duke
+"Sumerlin, Brent","Professor of Chemistry, University of Florida",16810,66,144,5.0,1,3.0,Chemistry,CMU
+"Alves, Nuno",ISCTE-IUL,616,11,16,3.0,2,2.0,Engineering,Tufts
+"Cohen, Charles",Cybernet Systems,4628,18,26,2.2,14,3.3,Art History,UChicago
+"Brown, James","Professor Emeritus of Biology, University of New Mexico",127236,150,692,5.0,1,1.0,Economics,Rice
+"Krueger, Thomas",Texas A&M University - Kingsville,1174,12,14,3.5,3,4.3,Engineering,UTexas
+"Bernhard, Stefan","Professor of Chemistry, Carnegie Mellon",11459,52,94,2.5,2,3.0,Chemistry,CMU
+"Ravi, R",Carnegie Mellon Unviersity,9290,52,144,4.5,2,2.5,Business,CMU
+"Lane, Kristin",Bard College,6057,13,13,5.0,1,4.0,Psychology,Tufts
+"Woodbury, Anthony","Professor of Linguistics, University of Texas at Austin",2455,25,46,3.0,4,3.8,Linguistics,UTexas
+"Pedahzur, Ami",Department of Government University of Texas at Austin,3749,32,57,4.2,4,3.8,Political Science,UTexas
+"Joshi, Badal","California State University, San Marcos",331,9,8,3.8,11,2.6,Mathematics,Duke
+"Schwartz, David","Professor of Medicine and Immunology, University of Colorado",37579,97,316,3.8,4,2.8,Psychology,Duke
+"El Gamal, Abbas","Electrical Engineering, Stanford University",33019,86,226,3.4,7,2.3,Engineering,Stanford
+"Johnson, Jennifer",Michigan State University,3325,31,67,4.8,3,3.0,Mathematics,Princeton
+"Cooke, Sandra",University of Birmingham,645,12,13,2.8,6,3.5,Writing,Duke
+"Grzankowski, Alex","Birkbeck, University of London",149,6,4,4.8,2,3.5,Philosophy,UTexas
+"Dubra, ","Associate Professor of Ophthalmology, Stanford University",5362,44,92,4.0,1,2.0,Economics,CMU
+"Oden, Tinsley",Unknown affiliation,58735,91,358, ,0, ,Engineering,UTexas
+"Fernandez-Kelly, Patricia",Princeton University,6693,25,36,3.2,5,3.2,Sociology,Princeton
+"Miller, Eric",Tufts University,7309,46,103,4.5,2,1.0,Engineering,Tufts
+"Murray, Paula",University of Guelph,373,7,5,5.0,1,3.0,Law,UTexas
+"Bolkan, San","Professor, Long Beach State University",1771,24,46,4.4,8,3.8,Communication,UTexas
+"Noonan, Kevin",Carnegie Mellon University,1083,16,18,4.8,2,3.0,Chemistry,CMU
+"Ramaswamy, Venkatachalam",noaa/gfdl,64298,70,159, ,0, ,Not Specified,Princeton
+"Bukh, Boris",Carnegie Mellon University,763,17,23,1.0,1,4.0,Mathematics,CMU
+"Whittle, Andrew",MIT,5424,39,91,2.8,2,3.0,Engineering,MIT
+"Bair, Jennifer","Associate Professor Sociology, University of Virginia",6090,27,41,3.4,6,2.8,Sociology,Yale
+"Oliver, Peter",University of Oxford,9633,34,59,5.0,1,5.0,Physical Education,UTexas
+"Churchill, Steven","Professor of Evolutionary Anthropology, Duke University",7683,51,82,4.3,20,3.3,Biology,Duke
+"Baker, Samuel",The University of Pennsylvania,493,7,4, ,0, ,English,UTexas
+"Kravitz, David",George Mason University,4366,28,39,4.5,9,3.4,Mathematics,CMU
+"Rosenbluth, Frances","Damon Wells Professor of Political Science, Yale University",5224,33,54,4.5,3,3.0,Political Science,Yale
+"Guchhait, Samaresh","University of Maryland, College Park",475,11,11,1.5,1,4.0,Physics,UTexas
+"Grill, Warren",Duke University Biomedical Engineering,17791,70,220,3.6,14,1.9,Engineering,Duke
+"Kalyvas, Stathis","Gladstone Professor of Political Science, University of Oxford",13685,42,67, ,0, ,Political Science,Yale
+"Jackson, John","M. Kent Jennings Collegiate Professor of Political Science, University of Michigan",8910,36,78,4.6,8,4.4,Anthropology,Duke
+"Shah, Purnima","School of Engineering and Applied Science, Ahmedabad University",27,3,1,4.0,2,4.0,Religion,Duke
+"Dimaggio, Paul","A. Barton Hepburn Professor of Sociology & Public Affairs, Princeton University",139128,75,159, ,0, ,Sociology,Princeton
+"Timmins, Christopher","Professor of Economics, Duke University",4440,30,54,2.9,21,3.0,Economics,Duke
+"Yildiz, Bilge","Professor, Massachusetts Institute of Technology",6779,44,99, ,0, ,Engineering,MIT
+"O'Donnell, Ryan","Professor, Computer Science Department, Carnegie Mellon",5172,40,69,4.5,5,2.2,Computer Science,CMU
+"Hudson, Scott","Professor of Human-Computer Interaction, Carnegie Mellon University",14546,67,189,1.0,1,5.0,Computer Science,CMU
+"Dukerich, Janet","Univ of Texas at Austin, McCombs School of Business",16983,27,33,5.0,1,4.0,Business,UTexas
+"Brandon, Deborah","Prof. of Mathematics, Carnegie Mellon University",241,9,9,3.7,20,2.7,Mathematics,CMU
+"Asher, Steven","Professor of Psychology and Neuroscience, Duke University",28175,67,97,4.1,9,3.1,Psychology,Duke
+"Balasko, Yves","Professor of economics, University of York, UK.",3103,25,49,1.5,1,2.0,Business,CMU
+"Price, Gareth",Professor of Chemistry,6765,41,109,4.4,7,3.4,Languages,Duke
+"Uyenoyama, Marcy",Duke University,3427,34,46,3.5,2,2.5,Biology,Duke
+"Sadowski, Philipp","Economics Dept., Duke University",276,8,6, ,0, ,Economics,Duke
+"Johnson, David","Visiting Professor, Columbia University Computer Science Department",231876,136,637,1.2,10,3.3,Communication,Harvard
+"Crawley, Edward","Professor of Aeronautics and Astronautics, MIT",15295,48,166,2.4,6,2.8,Engineering,MIT
+"Cummings, James","Assistant Professor, Emerging Media; Co-Director, Communication Research Center; Boston University",1095,12,13,3.4,6,2.2,Mathematics,CMU
+"Slonim, Donna","Associate Professor of Computer Science, Tufts University; Genetics Faculty, Sackler School of Graduate Biomedical Sciences, Tuf",26372,34,57,4.0,4,2.5,Computer Science,Tufts
+"Robertson, Phyllis",Zugehörigkeit unbekannt,389,7,5,4.7,3,3.0,Education,UTexas
+"Keeling, Kenneth",所属不明,54,3,3,5.0,1,1.0,Music,CMU
+"Chang, Fu Kuo",Chang Gung Memorial Hospital,4262,35,67,4.2,7,3.1,Engineering,Stanford
+"Arnsten, Amy",Professor of Neuroscience,30356,83,159,4.5,2,3.5,Biology,Yale
+"Helgeson, Vicki",Carnegie Mellon University,24965,71,134,3.6,5,2.8,Psychology,CMU
+"Hackney, David","Professor of Radiology, Harvard Medical School",7991,54,111,3.0,2,5.0,Biology,CMU
+"Prasnikar, Vesna","Research scientist, Comlabgames, Pittsburgh, USA",2257,8,6,4.5,1,2.0,Business,CMU
+"Schneider, Susan",professor emeritus HEC/GSEM University of Geneva,6357,26,33,4.5,1,2.0,Nursing,Duke
+"Leventoglu, Bahar",Associate professor of political science and economics,631,8,7,3.3,6,3.2,Political Science,Duke
+"Rollett, Anthony","Professor of Materials Science and Engineering, Carnegie Mellon University",22749,63,218, ,0, ,Engineering,CMU
+"Patten, Alan",Princeton University,2615,21,25, ,0, ,Political Science,Princeton
+"Chapman, Stephen",Macaulay Hutton,5677,43,96,4.9,4,3.5,Religion,Duke
+"Metzger, Sean",Unknown affiliation,221,7,7,4.0,12,3.0,English,Duke
+"Sounny-Slitine, Anwar","Geography, University of Florida",65,4,2,5.0,1,3.0,Geography,UTexas
+"Sooriamurthi, Raja",Carnegie Mellon University,456,11,12,4.0,1,5.0,Information Science,CMU
+"Smith, Lindsey","University of North Carolina, Chapel Hill",1486,18,30,4.2,4,2.8,Writing,Duke
+"May, Robert","Professor of Zoology, University of Oxford",156630,175,551,3.5,3,2.0,Accounting,UTexas
+"Orlin, James","Professor, Massachusetts Institute of Technology",30273,66,149,4.5,2,3.5,Business,MIT
+"Arima, Eugenio","Department of Geography and the Environment, University of Texas at Austin",3497,28,49,2.5,6,2.7,Geography,UTexas
+"Munch, Elizabeth","Assistant Professor, Michigan State University",463,12,13, ,0, ,Mathematics,Duke
+"Aslam, Ali","Bangladesh Agricultural University, Mymensingh, Bangladesh",775,14,16,2.5,2,2.0,Writing,Princeton
+"Behrmann, Marlene","Professor, Cognitive Neuroscience, Carnegie Mellon University",22209,80,221,4.9,4,2.2,Psychology,CMU
+"Dur, Umut",North Carolina State University,364,10,10, ,0, ,Economics,UTexas
+"Hebl, Mikki",Rice University,12162,52,108,4.4,19,3.3,Psychology,Rice
+"Subramanian, Shoba","Director of Curriculum and Educational Initiatives, University of Michigan Medical School, Ann Arbor",209,6,5,4.5,1,4.0,Biology,CMU
+"Harrison, James","Professor of Chemistry, Michigan State University",4605,35,103,3.9,18,3.3,English,Harvard
+"Hines, Mary",University of North Carolina at Chapel Hill,319,8,8,3.1,6,1.7,Biology,UTexas
+"Workman, Samuel",University of Oklahoma,756,9,9,3.9,14,2.7,Government,UTexas
+"White, Michael",UT Southwestern Medical Center,22309,70,165,4.3,5,3.6,Religion,UTexas
+"Morgan, Jason","Professor of Earth Sciences, Royal Holloway",9854,52,98,5.0,5,4.0,History,CMU
+"Bockstaller, Michael","Professor of Materials Science and Engineering, Carnegie Mellon University",5573,38,85,4.3,3,4.0,Engineering,CMU
+"WU, Wayne","Neuroscience Institute and Center for the Neural Basis of Cognition, Carnegie Mellon University",668,14,15,1.5,1,2.0,Philosophy,CMU
+"Brown, Drusilla","Associate Professor of Economics, Tufts University",17403,62,241,3.3,15,2.8,Economics,Tufts
+"Jones, Richard",Johns Hopkins,44811,98,695,3.5,3,3.7,Chemistry,UTexas
+"Atherton, Timothy",Associate Professor of Physics Tufts University,649,15,21,5.0,2,2.0,Physics,Tufts
+"Littman, Michael",Brown University,38890,78,190, ,0, ,Engineering,Princeton
+"Zhang, Hui","Carnegie Mellon University, Conviva",33636,82,170,4.5,3,3.3,Computer Science,CMU
+"Benedikt, Michael","Professor of Computer Science, Oxford University",5017,36,96,2.5,5,2.8,Architecture,UTexas
+"Rock, Steve",University of Colorado,2458,13,13,2.3,3,3.0,Engineering,Stanford
+"Seltman, Howard","Statistics, Carnegie Mellon University",4658,34,54,4.7,6,3.8,Mathematics,CMU
+"Gerstlauer, Andreas","Associate Professor of Electrical and Computer Engineering, The University of Texas at Austin",4368,32,84,4.0,3,2.7,Engineering,UTexas
+"Oberlack, Uwe",Johannes Gutenberg University Mainz,12760,44,91,3.6,4,2.5,Science,Rice
+"Dahl, Kris",Carnegie Mellon University,3854,28,45,4.1,6,2.3,Engineering,CMU
+"Kirk, David","Professor of Education, University of Strathclyde",15295,64,166,3.0,2,4.0,Music,Rice
+"Hayward, Mathew","Department of Management, Monash University",5871,13,16, ,0, ,Business,UTexas
+"Bejan, Camelia",University of Washington,136,6,3,2.5,2,3.0,Economics,Rice
+"Matson, Douglas",Tufts University,704,14,24,4.4,12,2.9,Mechanical Engineering,Tufts
+"Markert, John","Professor of Physics, The University of Texas at Austin",6873,39,80,4.8,3,3.7,Physics,UTexas
+"Abedian, Behrouz","Mechanical Engineering, Tufts University",788,14,17,4.1,12,3.3,Mechanical Engineering,Tufts
+"Helgason, Sigurdur",Professor of Mathematics MIT,22156,37,65,3.7,3,2.3,Mathematics,MIT
+"Poenie, Martin",University of Texas at Austin,37685,32,41,3.0,1,3.0,Biology,UTexas
+"Chapman, Walter",Rice University,12567,51,156, ,0, ,Engineering,Rice
+"Williams, Rob","Pew Fellow in Marine Conservation, co-founder Oceans Initiative",4116,35,54,5.0,2,2.0,Economics,UTexas
+"Chakrabarti, Abhirup",Queen's University,740,6,6,4.5,1,4.0,Management,Duke
+"Thompson, James","Professor of Special Education, University of Kansas",5487,32,77,1.0,1,3.0,Mathematics,Rice
+"Chiu, Charles","Professor of Laboratory Medicine and Medicine / Infectious Diseases, University of California, San",8014,45,90,4.0,5,4.0,Science,UTexas
+"Mercer, John","Professor, inStem",4700,28,39,2.5,10,2.6,Biology,Duke
+"Kehrig, Matthias",Duke University,448,7,7,3.5,1,2.0,Economics,UTexas
+"Inan, Umran","Professor of Electrical Engineering, Stanford University",21198,77,348,3.5,2,1.5,Engineering,Stanford
+"Vilaros, Teresa",Texas A&M,790,8,6,2.5,2,4.5,Spanish,Duke
+"Cook, William",University of Waterloo,11846,36,64,5.0,1,3.0,Computer Science,UTexas
+"Wolf, Patrick","Associate Professor of Biomedical Engineering, Duke University",9324,54,134,1.2,2,1.0,Engineering,Duke
+"Ivy, John",Professional Staff at Texas A&M University,1227,11,12,5.0,1,5.0,Health Science,UTexas
+"Baker, Mary",HP Inc.,14006,42,67,3.4,4,1.5,Languages,UTexas
+"Crowder, Larry","Ed Ricketts Professor of Marine Ecology and Conservation, Stanford University",31228,90,217,3.6,4,3.2,Science,Duke
+"Jackson, Aaron","Associate Professor of Counseling Psychology, Brigham Young University",1209,16,20,5.0,1,4.0,Mathematics,Duke
+"Glenn, Melissa","Associate Professor of Psychology, Colby College",1471,15,19,4.2,2,2.0,Psychology,Duke
+"Tyler, Leonard",University of Texas at Tyler,239,8,7, ,0, ,Engineering,Stanford
+"Frymer, Paul","Professor of Politics, Princeton University",1525,17,21,5.0,1,5.0,Political Science,Princeton
+"Morris, Gary","Dean of Natural Sciences, St. Edward's University",2808,28,47,4.6,7,3.7,Physics,Rice
+"Bobrowski, Omer","Assistant Professor, Electrical Engineering, Technion - Israel Institute of Technology",485,11,13,4.8,4,3.5,Mathematics,Duke
+"Gordon, Vernita","Associate Professor of Physics, University of Texas at Austin",2796,27,39,1.2,2,1.5,Physics,UTexas
+"Neal, William","Emeritus Professor of Geology, Grand Valley State University",1642,22,44, ,0, ,Engineering,UTexas
+"Jang, Woncheol","Associate Professor of Statistics, Seoul National University",344,10,13,3.2,2,3.5,Mathematics,Duke
+"Souvaine, Diane","Professor of Computer Science & Vice Provost for Research, Tufts University",1910,25,44,4.2,9,1.7,Computer Science,Tufts
+"McDougall, Graham","Behavioral Scientist, Gerontologist, & Nurse Practitioner",1971,26,55,3.5,1,5.0,Nursing,UTexas
+"Abramson, Daniel",Boston University,217,7,6,4.5,9,3.3,Architecture,Tufts
+"Little, Deborah","Associate Professor of Sociology, Adelphi University",280,5,3,5.0,1,5.0,Education,UTexas
+"Martinek, Jason",New Jersey City University,21,2,1,5.0,1,3.0,History,CMU
+"Youngs, Bonnie",Carnegie Mellon University,593,9,9,4.7,3,3.3,Languages,CMU
+"Richman, Laura S.",Duke University,10256,25,37,4.3,6,3.8,Psychology,Duke
+"Morse, Christopher",Manchester Metropolitan University,3539,31,46,3.4,74,1.7,Chemistry,Tufts
+"Taguchi, Naoko",Northern Arizona University,3623,33,60,2.0,1,3.0,Languages,CMU
+"Moreno Rocha, Monica",Centro de Investigación en Matemáticas (CIMAT),189,9,9,4.1,5,2.8,Mathematics,Tufts
+"Krylova, Anna","History Department and GSF Studies, Duke University",651,11,12,3.2,8,3.2,History,Duke
+"Liang, Pierre Jinghong","Professor of Accounting, Carnegie Mellon University",1163,17,21,3.5,1,2.0,Business,CMU
+"Long, Christopher","Assistant Professor, Health Services Research, University of Arkansas for Medical Sciences",1123,13,18,4.8,3,3.0,Architecture,UTexas
+"Brown, Margaret","Emeritus Professor of Mathematics Education, King's College London",4570,28,62,4.8,4,3.8,Anthropology,Duke
+"Brown, Norman",University of Alberta,3462,31,55,2.0,3,2.3,History,UTexas
+"Stine, Deborah","President, Science, Technology, and Innovation Policy Analysis & Education, LLC",379,8,7,1.0,1,2.0,Political Science,CMU
+"Willis, Richard","Anne Marie & Thomas B. Walker, Jr. Professor of Accounting, Vanderbilt University",3271,14,15,4.5,4,4.5,Health Science,UTexas
+"Stuart, David","Oxford University, Diamond Light Source, Insruct-ERIC",49968,109,377,4.9,5,2.6,Art History,UTexas
+"Coronado, Raul",Profesor-Investigador,332,9,9,2.1,4,2.0,English,UChicago
+"Berg, Gary",author/researcher,967,16,18,1.9,23,2.7,Mathematics,UTexas
+"Kline, Kimberly",Nanyang Technological University,2626,29,40,2.5,5,2.4,Nutrition,UTexas
+"Pelphrey, Kevin","Harrison-Wood Jefferson Scholars Foundation Professor, University of Virginia",16716,62,123,4.5,1,4.0,Psychology,Duke
+"Holm, Jakob",Aarhus University,18,2,1,5.0,1,4.0,Languages,UTexas
+"Carley, Kathleen","Professor, Carnegie Mellon University",36330,89,350, ,0, ,Computer Science,CMU
+"Williams, Matthew","Professor of Criminology, Cardiff University",3738,30,47,1.5,1,2.0,Sociology,Tufts
+"Napier, Susan","Associate Professor, Georgia Institute of Technology",2585,22,27,3.3,8,3.6,Ethnic Studies,Tufts
+"blum, Avrim","Professor and Chief Academic Officer, Toyota Technological Institute at Chicago",31368,72,154,4.3,3,2.3,Computer Science,CMU
+"Villena, Francisco","PROFESOR TITULAR, UNIVERSIDAD COMPLUTENSE",826,13,18,5.0,2,3.5,Languages,Princeton
+"Ozev, Sule",Arizona State University,2340,26,67,2.3,6,1.7,Engineering,Duke
+"Sparrow, Bartholomew",University of Texas,1273,11,11,3.2,10,2.8,Political Science,UTexas
+"Rye, Danny","Professor of Geology and Geophysics, Yale University",3478,35,55, ,0, ,Geology,Yale
+"Bishop, Robert",The University of South Florida,11296,31,69, ,0, ,Engineering,UTexas
+"Vieira, Carlos",Professor da Universidade Estadual do Norte Fluminense,1103,14,33,3.5,1,1.0,Engineering,Princeton
+"Armstrong, Elizabeth",Professor of Sociology and Organizational Studies,5140,17,19, ,0, ,Sociology,Princeton
+"Kwallek, Nancy","Professor, The University of Texas at Austin",740,8,8, ,0, ,Design,UTexas
+"Barhoum, Khalil","Professor of computer science, Isra university",23,2,1,5.0,3,2.7,Languages,Stanford
+"Kruse, Kevin",Professor of History,1947,10,10,5.0,1,3.0,History,Princeton
+"Jurafsky, Dan","Professor of Linguistics and Computer Science, Stanford University",42372,86,220,4.5,2,2.5,Languages,Stanford
+"Lane, David",A*STAR,100528,141,467,3.5,7,3.3,Psychology,Rice
+"Wilson, ",Children's Hospital at Westmead,6456,40,72,3.2,2,5.0,Economics,UChicago
+"Marchesi, Simone",Universitat de Barcelona,73,4,2,5.0,4,2.2,Literature,Princeton
+"Wang, Paul",Simons Foundation,6445,39,48, ,0, ,Engineering,Duke
+"Scribner, Charity",City University of New York,36,3,2,4.8,3,1.7,Humanities,MIT
+"Washburn, Newell","Associate Professor, Carnegie Mellon University",5018,33,62,4.4,4,3.2,Chemistry,CMU
+"Buel, Sarah",ASU College of Law - ret.,739,14,16,1.9,6,3.0,Law,UTexas
+"Osa-Melero, Lucia",Duquesne University,18,3,0,4.0,1,4.0,Spanish & Portuguese,UTexas
+"Sinha, Pawan","Professor of Visual Neuroscience, MIT",11470,49,109,4.5,3,4.7,Psychology,MIT
+"Linder, Randal",University of Texas at Austin,6306,39,51,4.0,1,2.0,Biology,UTexas
+"Auroux, Denis","Professor of Mathematics, Harvard University",2052,23,31,4.8,32,3.3,Mathematics,MIT
+"Hammer, David",Tufts University,11278,48,67,3.6,5,2.0,Physics,Tufts
+"Storeygard, Adam","Associate Professor of Economics, Tufts University",7686,17,18,2.5,3,2.7,Economics,Tufts
+"Zeng, Hong","Professor, School of Electrical and Information Engineering，HNUT",2207,24,28,3.9,14,1.9,Languages,Stanford
+"Mok, Aloysius","Professor of Computer Science, University of Texas at Austin",13965,49,147,2.8,2,3.0,Computer Science,UTexas
+"Moaveni, Babak",Tufts University,1978,26,38,5.0,1,2.0,Civil Engineering,Tufts
+"Wilson, Ara",Duke University,1063,15,18,4.2,5,2.6,Women's Studies,Duke
+"Watson, Rachel",University of Manchester,3330,33,58, ,0, ,English,UChicago
+"Chen, Tsuhan",National University of Singapore,18829,67,293,5.0,1,2.0,Engineering,CMU
+"Holman, Richard",Carnegie Mellon University,6803,43,112,3.2,3,1.3,Physics,CMU
+"Bernstein, Sara","Associate Professor of Philosophy, University of Notre Dame",225,9,7,4.5,3,2.7,Philosophy,Duke
+"Jones, Derek","Director,  CUBRIC, School of Psychology, Cardiff University",44416,89,397,2.5,1,1.0,Fine Arts,Duke
+"Willets, Katherine","Associate Professor of Chemistry, Temple University",8040,31,61,4.0,1,1.0,Chemistry,UTexas
+"McCann, Robert",University of Toronto,6000,31,54,4.0,2,5.0,Engineering,UTexas
+"Weinstein, Jeremy","Associate Professor of Political Science, Stanford University",9064,32,48,5.0,3,1.0,Political Science,Stanford
+"Purdie-Vaughns, Valerie","Assistant Professor of Psychology, Columbia University",8005,28,37,3.5,3,4.0,Psychology,Yale
+"Perrig, Adrian","Professor of Computer Science at ETH Zürich, Adjunct Professor of ECE at CMU, Cylab Fellow",63695,95,224,4.8,3,2.7,Computer Science,CMU
+"Morgan, Kari (lock)","Assistant Professor, Statistics, Penn State University",795,10,10,4.3,10,3.1,Statistics,Duke
+"Upson-Saia, Kristi",Occidental College,11,2,0,4.5,4,2.2,Religion,Duke
+"Kelber, ","Lund Vision Group, Lund University",5970,45,94,5.0,2,3.0,Religion,Rice
+"Zhong, Pei","Anderson-Rupp Professor of Mechanical Engineering and Materials Science, Duke University",5736,45,95, ,0, ,Engineering,Duke
+"Norin, Sergey","Associate Professor, McGill University",1677,19,40,3.2,3,2.3,Mathematics,Princeton
+"Ozer, Ozalp",The University of Texas at Dallas,4382,28,38,5.0,1,3.0,Management,Stanford
+"Blankenship, Kim","American University, Department of Sociology",3380,29,43, ,0, ,Sociology,Duke
+"Gregg, ",Johns Hopkins University,146347,176,392,3.8,2,4.5,Political Science,UTexas
+"Chen, Guangliang",San Jose State University,904,13,14,2.1,8,1.8,Mathematics,Duke
+"Boyarchenko, Svetlana","Associate Professor in Economics, University of Texas at Austin",1985,18,28,5.0,2,4.5,Economics,UTexas
+"Walsh, John","Research Professor, International Arctic Research Center",22521,79,185,5.0,3,4.3,Physical Ed,Tufts
+"Brandon, Robert","Professor of Philosophy, Duke University",5054,30,37,4.0,3,3.7,Philosophy,Duke
+"Read, Andrew","Evan Pugh University Professor of Biology and Entomology, Penn State",22656,82,247,4.0,1,4.0,Science,Duke
+"Cohen, Ted","Department of Epidemiology of Infectious Diseases, Yale School of Public Health",8814,45,130,3.6,18,3.3,Philosophy,UChicago
+"Bennett, Gary",University California San Diego,31152,89,188,4.6,8,4.1,Psychology,Duke
+"Kelly, Tom",UCL,199,5,3,4.4,8,2.9,Philosophy,Princeton
+"Doucette, Wendy",Graduate Research and Instruction Librarian and Assistant Professor,1,1,0,5.0,1,4.0,Not Specified,Harvard
+"Shenoy, Krishna",Stanford & HHMI,15351,62,150,5.0,1,3.0,Engineering,Stanford
+"Fleischer, Jason",Princeton University,7619,36,73,5.0,2,2.0,Engineering,Princeton
+"Trick, Michael","Dean, Carnegie Mellon University in Qatar",5866,31,53,3.7,3,2.7,Business,CMU
+"Carlson, John","Associate Professor of Information Systems, Baylor University",2393,16,17,5.0,1,4.0,Biology,Yale
+"Hassan, Ehab","Institute of Fusion Studies, University of Texas at Austin",22,3,0, ,0, ,Science,UTexas
+"Hafalir, Elif-Incekara",University of Technology Sydney,48,4,2,3.0,1,3.0,Economics,CMU
+"Storchmann, Karl","Clinical Professor, Economics Department, New York University",2316,20,25,3.5,13,2.7,Economics,Yale
+"Phillips, Beth",Florida State University,4980,34,50,3.8,3,3.3,Nursing,Duke
+"Frederick, Matthew",所属不明,1044,12,12,3.6,9,2.6,Music,Harvard
+"Ramirez Berg, Charles","Professor of Cinema Studies, University of Texas at Austin",1749,14,21,4.9,25,4.0,Film,UTexas
+"Hall, Crystal","Associate Professor of Public Policy and Governance, University of Washington",1941,7,7,5.0,3,2.7,Mathematics,Harvard
+"Portsmore, Merredith","Director, Tufts Center for Engineering Education and Outreach",1760,14,16,5.0,2,4.0,Engineering,Tufts
+"Barnaby, Edward",Senior Assistant Dean for Graduate Programs; Associate Professor of English; University of Virginia,40,4,1,2.5,1,3.0,English,Yale
+"Ilic, Marija","Professor of Electrical & Computer Engineering, and Engineering & Public Policy, Carnegie Mellon",14692,62,238, ,0, ,Engineering,CMU
+"Ozman, Ekin",Bogazici University,155,7,4,3.3,3,2.7,Mathematics,UTexas
+"Fukami, Tadashi","Associate Professor of Biology, Stanford University",9603,43,73,1.5,1,2.0,Biology,Stanford
+"Forbes, Jeffrey","Professor, Aerospace Engineering Sciences, University of Colorado",18020,69,248,2.2,31,2.4,Computer Science,Duke
+"De Armas, Frederik",University of Chicago,1441,17,41,4.5,3,3.7,Languages,UChicago
+"Archer, David","Professor of Geophysical Sciences, University of Chicago",15476,64,101,4.1,12,2.7,Science,UChicago
+"Yuan, Fan","Department of Biomedical Engineering, Duke University, Durham, NC 27708",17675,53,99,2.5,8,2.6,Engineering,Duke
+"Joseph, Paul","University of California, Berkeley",1532,8,7,3.1,19,3.4,Social Science,Tufts
+"Botstein, David",Princeton University,240051,182,454,3.5,1,3.0,Biology,Princeton
+"Halvorson, Hans","Stuart Professor, Princeton University",2160,23,36,4.2,4,2.5,Philosophy,Princeton
+"Woolley, Anita",Carnegie Mellon University,4393,28,39, ,0, ,Business,CMU
+"Miller, David",所属不明,105321,167,808,5.0,1,2.0,Religion,Princeton
+"Cook, David","Professor of Medicine and Medical Education, Mayo Clinic College of Medicine and Science",20660,73,154, ,0, ,Religion,Rice
+"Shayegan, Mansour","Professor of Electrical Engineering, Princeton University",17163,65,262, ,0, ,Engineering,Princeton
+"McCann, John",McCann Imaging,7477,30,68,4.2,15,4.7,Music,Tufts
+"Smith, Jeremy",University of Tennessee/ORNL,41456,70,352,1.0,1,3.0,Management,CMU
+"MacWhinney, Brian","Professor of Psychology, CMU",45936,86,260,5.0,1,3.0,Psychology,CMU
+"Patterson, Peggy","Professor, University of Calgary",107,5,3,2.8,4,4.8,Languages,Rice
+"Thorne, Susan",Duke University,705,7,6,4.0,13,3.6,History,Duke
+"Clark, Eve","Linguistics, Stanford University",28866,67,112, ,0, ,Social Science,Stanford
+"Doolittle, William",Georgia Institute of Technology,2347,29,73,4.9,6,2.7,Geography,UTexas
+"XU, Hangjun","Assistant Professor of Marketing, Union University",78,5,4,4.1,5,2.0,Mathematics,Duke
+"Krosnik, Jon",Stanford University,43387,94,201,2.5,1,3.0,Communication,Stanford
+"Hassoun, Soha","Professor & Past Chair.  Department of Computer Science, Tufts University",2453,22,35,3.2,10,2.3,Computer Science,Tufts
+"Kublik, Richard",Applied Mathematician and Data Scientist,70,3,2, ,0, ,Engineering,UTexas
+"Ross, Steve",UNC-W,2895,31,71,3.4,7,3.6,Architecture,UTexas
+"Lowood, Henry",Stanford University,1632,20,31, ,0, ,Science,Stanford
+"Cushmen, John",University of Nevada,13391,66,132,4.8,2,5.0,Political Science,Duke
+"Oberman, Adam","Professor, Department of Mathematics and Statistics, McGill University",2158,25,33, ,0, ,Mathematics,UTexas
+"McMillan, Margaret",Tufts University IFPRI International Food Policy Research Institute,6265,28,47,3.3,7,3.6,Economics,Tufts
+"Baraniuk, Richard","Victor E. Cameron Professor, Electrical & Computer Engineering, Rice University",59512,108,389,2.5,4,1.2,Engineering,Rice
+"Shapiro, Liza","Professor of Anthropology, University of Texas at Austin",1537,22,27,3.3,3,2.7,Anthropology,UTexas
+"Gregory, Eric",Bergische Universität Wuppertal,3240,20,27,4.6,7,3.7,Religion,Princeton
+"Hollowell, Adam","Senior Research Associate, Samuel DuBois Cook Center on Social Equity, Duke University",25,3,1,4.9,19,3.0,Public Policy,Duke
+"Chauvin, Sebastien",University of Lausanne,2561,20,29,4.0,1,3.0,Anthropology,UChicago
+"Wang, Mingquan",Chinese Academy of Sciences,150,7,6,5.0,15,3.7,Chinese,Tufts
+"Dey, Abhishek","Professor, Indian Association for the Cultivation of Science",4401,40,88,4.5,1,2.0,Chemistry,Stanford
+"Andrews, Peter","Arthur Jackson Professor of Biomedical Science, The University of Sheffield",20610,70,174,3.9,9,2.1,Mathematics,CMU
+"Scholl, Brian","Professor of Psychology and Cognitive Science, Yale University",12877,53,88,4.2,13,3.0,Psychology,Yale
+"Tarjan, Robert","Professor of Computer Science, Princeton University",78789,112,291, ,0, ,Computer Science,Princeton
+"Steif, Paul",Professor of Mechanical Engineering,3635,36,82,3.4,15,2.0,Engineering,CMU
+"Church, Jeffrey","Department of Economics, University of Calgary",3380,16,20,4.8,5,4.2,Political Science,Duke
+"Larry, Diamond",Stanford University,40594,82,212,5.0,2,2.5,Political Science,Stanford
+"Schmidt, L","Professor, Mechanical Engineering University of Maryland",5740,27,55,4.2,3,1.3,English,CMU
+"Arrington, Nathan",Princeton University,209,7,4, ,0, ,Art History,Princeton
+"Duvall, Robert","Computer Science, Duke University",144,6,5,3.3,21,2.5,Computer Science,Duke
+"Holt, Lori",Carnegie Mellon University,4819,36,65,4.2,12,3.1,Psychology,CMU
+"Wright, Amy","Research Professor, Harbor Branch Oceanographic Instuitute, Florida Atlantic University",5383,40,102,5.0,1,3.0,History,UTexas
+"Stearns, Frank",Johns Hopkins University,349,5,2,5.0,1,5.0,Biology,UTexas
+"Montez, Noe",Associate Professor of Drama and Dance,5,2,0,5.0,3,3.7,Fine Arts,Tufts
+"Durant, John","Associate Professor of Civil and Environmental Engineering, Tufts University",3301,29,51,4.3,5,2.8,Engineering,Tufts
+"Unel, Bulent",Professor of Economics,1111,15,19,1.5,1,2.0,Economics,UTexas
+"Richard, Lewis","Professor of Molecular & Cellular Physiology, Stanford University",23485,57,71,4.3,3,2.7,Film,UTexas
+"Kale, David","Senior Machine Learning Scientist, Netflix",1532,16,21,1.0,1,1.0,Computer Science,Stanford
+"Rectenwald, Michael",New York University,131,6,4,3.7,12,3.2,English,CMU
+"Scala, Elizabeth","Professor of English, University of Texas",380,10,11,3.1,5,2.2,English,UTexas
+"Martin, William","Professor of Molecular Evolution, University of Düsseldorf",34610,90,253,4.9,6,2.3,Sociology,Rice
+"MacKay, John",University of Oxford,7810,48,90,3.1,5,3.8,Film,Yale
+"Ketrez, Nihan",İstanbul Bilgi University,738,13,16,5.0,2,5.0,Near Eastern Studies,Yale
+"Witchel, Emmett","Professor of Computer Science, The University of Texas at Austin",6682,36,60,4.0,1,3.0,Computer Science,UTexas
+"Henderson, Marlone","Associate Professor of Psychology, University of Texas at Austin",2717,19,23,3.5,11,2.7,Psychology,UTexas
+"Shamoo, Yousif","Professor of Biochemistry & Cell Biology, Rice University",3950,35,59,4.0,5,2.2,Biology,Rice
+"Perry, William","University of California, San Diego",8602,52,105,4.0,3,3.7,International Studies,Stanford
+"Wills, Derek","Honorary Senior Fellow in Computer Science, University of Hull",9742,13,13,3.0,23,2.0,Science,UTexas
+"Cao, Caroline",Wright State University,2232,27,56,1.6,13,3.1,Engineering,Tufts
+"Freed, Daniel","Professor of Mathematics, University of Texas at Austin",9142,42,69, ,0, ,Mathematics,UTexas
+"Wilkinson, Robert",University of Cape Town;  Francis Crick Institute;   Imperial College London,26900,82,257,5.0,1,2.0,Not Specified,Tufts
+"Bartalesi-Graf, Daniela",Wellesley College,17,3,0,4.9,4,3.2,Languages,Tufts
+"Werner, Thomas","Associate Professor of Genetics and Developmental Biology, Michigan Technological University",2218,11,12,3.4,4,3.5,Philosophy,CMU
+"McNinch, George","Professor of Mathematics, Tufts University",431,12,15,4.0,2,3.0,Mathematics,Tufts
+"Lopez, Alberto",Universidad Complutense de Madrid,921,11,13,4.5,4,2.5,Mathematics,Tufts
+"Ackerman, Frank",Synapse Energy Economics,5008,20,20,3.8,2,3.0,Political Science,Tufts
+"Avraham, Ronen","Tel Aviv University,  Buchmann Faculty of Law",1405,20,24,3.8,2,3.5,Law,UTexas
+"Pal, Jayanta","Former Professor, School of Electrical Sciences, IIT Bhubaneswar, Samanta Puri, Bhubaneswar- 751013",1084,17,27,1.0,2,1.0,Mathematics,Duke
+"Fitzgerald, Michael","Trinity College, Dublin",11081,51,138,3.1,5,2.8,Chemistry,Duke
+"McDonald, Ian",University of Waikato,7992,52,86,5.0,3,4.3,Political Science,Duke
+"Austin, Kelly","Associate Professor of Sociology, Lehigh University",477,13,17,2.2,5,3.2,Languages,UChicago
+"Neil, Daniel",BenevolentAI,1509,17,19, ,0, ,Mathematics,CMU
+"Krackhardt, David",Carnegie Mellon University,26311,55,82,4.5,1,3.0,Management,CMU
+"Anna, Shelley",Professor of Chemical Engineering,7680,26,42,4.2,3,2.7,Engineering,CMU
+"Fiebrink, Rebecca",University of the Arts London,1493,20,34,4.5,1,3.0,Computer Science,Princeton
+"Stevenson, Paul",University of Leipzig,2392,29,43,4.5,3,1.7,Physics,Rice
+"Kennedy, Alan",US Army Engineer Research and Development Center (ERDC),3322,31,51,4.6,8,3.2,English,CMU
+"Cohen, Sarah","Assistant Professor, UNC - Chapel Hill",1116,12,13,3.4,4,2.5,Public Policy,Duke
+"Beer, Jennifer","Professor, University of Texas at Austin",12658,36,51,3.5,4,3.2,Psychology,UTexas
+"Gonzalez, Elena","Instituto Gulbenkian de Ciência, Oeiras, Portugal",5207,23,26,3.8,3,2.7,Languages,Duke
+"Zhang, BO",The First Affiliated Hospital of Nanjing Medical University,64825,110,1025,4.5,1,4.0,Computer Science,Duke
+"Sheehan, Thomas","Professor, Stanford University",2180,23,49,3.9,8,2.5,Theology,Stanford
+"Przybycien, Todd",Rensselaer Polytechnic Institute,3414,35,54,1.0,1,2.0,Engineering,CMU
+"Miller, Earl","Picower Professor of Neuroscience, Massachusetts Institute of Technology",43246,73,119,4.3,3,3.3,Psychology,MIT
+"Rosa, Luis","Dept. Physics and Electronics, University of Puerto Rico - Humacao",803,17,26,3.1,4,3.5,Writing,Duke
+"White, Charles","Professor of Pathology, University of Texas Southwestern Medical Center",18755,68,157,3.9,17,2.8,Economics,Tufts
+"Norman, George","Department of Economics, Tufts University",6228,35,73,3.8,42,3.3,Economics,Tufts
+"Chudgar, Neil",independent scholar,15,1,1,4.2,9,2.2,English,UChicago
+"El Gamal, Mahmoud","Professor of Economics, Rice University",3885,24,40, ,0, ,Economics,Rice
+"Hoyle, Rick","Professor of Psychology, Duke University",28089,67,122,2.5,1,4.0,Psychology,Duke
+"Guestrin, Carlos","Amazon Professor of Machine Learning, University of Washington",34102,71,134,4.0,1,1.0,Computer Science,CMU
+"Jiang, Frank","Electrical Engineering and Computer Science, KTH Royal Institute of Technology, Stockholm",67,2,1,4.9,4,3.5,Languages,Duke
+"Daly, Ann","Professor of Pharmacogenetics, Newcastle University",31490,89,238,1.2,4,1.5,Theater,UTexas
+"Dolan, Jill","Annan Professor of English and Theatre, Princeton University",4083,23,32,1.3,3,1.7,Theater,UTexas
+"Padilla, Yolanda","Professor, University of Texas at Austin",1736,22,31,4.2,3,4.3,Social Work,UTexas
+"Laughlin, David","ALCOA Professor of Physical Metallurgy, Materials Science and Engineering, Carnegie Mellon",18087,62,319,5.0,1,5.0,Engineering,CMU
+"Slavick, Susanne",Carnegie Mellon,2,1,0,4.5,1,3.0,Fine Arts,CMU
+"Young, Daniel","Assistant Professor of Political Science, Georgia State University",691,9,8, ,0, ,Law,UTexas
+"Mohanan, Manoj","Associate Professor, Sanford School of Public Policy, Duke University",1065,11,12,2.0,1,3.0,Public Policy,Duke
+"Conitzer, Vincent",Duke University,10689,57,146,4.0,1,3.0,Computer Science,Duke
+"Marcellino, William","Senior Behavioral & Social Scientist, RAND Corp.",270,8,7,3.0,2,2.0,English,CMU
+"Chandler, James",Zymergen,901,9,9, ,0, ,English,UChicago
+"Golan, Limor","Associate Professor, Department of Economics, Washington University in St. Louis",568,9,9,2.8,4,3.2,Economics,CMU
+"Beevers, Christopher",University of Texas at Austin,7716,45,98,5.0,3,3.0,Psychology,UTexas
+"Bishop, Robert",The University of South Florida,11296,31,69,3.0,2,1.5,Philosophy,Rice
+"Elga, Adam","Professor of Philosophy, Princeton University",2481,15,16,5.0,1,2.0,Philosophy,Princeton
+"Verdi, Rodrigo",MIT Sloan School of Management,8166,22,27,5.0,2,4.0,Accounting,MIT
+"Hyde, Susan","Professor of Political Science, University of California, Berkeley",2821,19,23, ,0, ,Political Science,Yale
+"Golman, Russell","Department of Social and Decision Sciences, Carnegie Mellon University",974,15,20,3.2,2,3.0,Social Science,CMU
+"Gonzalez, Silvia","PhD Student, University of Ottawa, Healthy Active Living and Obesity Research Group",897,14,17,1.5,3,1.7,Spanish,Duke
+"Akat, Muzaffer",Ozyegin University,35,3,2,3.8,2,3.0,Finance,CMU
+"Widom, Michael","Professor of Physics, Carnegie Mellon University",4712,40,88,2.0,3,3.0,Physics,CMU
+"Panzer, Matthew","Associate Professor of Chemical & Biological Engineering, Tufts University",3601,26,37,5.0,5,3.4,Engineering Chemistry,Tufts
+"Ross, Carolyn","Professor of Food Science, Washington State University",3039,29,66,3.3,8,3.0,English,Stanford
+"Pikhurko, Oleg",University of Warwick,1675,23,57,3.5,1,1.0,Mathematics,CMU
+"Little, Thomas","Electrical and Computer Engineering, Boston University",9490,46,131,4.6,13,3.7,History,Harvard
+"Linnenbrink-Garcia, Lisa",Michigan State University,10526,39,57,3.2,6,2.3,Education,Duke
+"Tripathy, Chittaranjan","Principal Data Scientist, Walmart Labs",96,5,4,2.5,1,3.0,Computer Science,Duke
+"Fitzpatrick, James","Professor, Washington University in St Louis",4882,25,34,4.4,6,4.3,Languages,Duke
+"MacLachlan, Scott","Professor, Memorial University of Newfoundland",1649,22,40,4.2,4,3.5,Mathematics,Tufts
+"Ludwig, Jonathan",imec,822,11,11,5.0,4,3.2,Languages,Rice
+"Starobin, Shana","Assistant Professor of Government and Environmental Studies, Bowdoin College",108,3,2,5.0,1,3.0,Public Policy,Duke
+"Levine, Stephen","University of Haifa, Israel",3757,33,74,2.0,3,2.3,Engineering,Tufts
+"Amador, Manuel",University of Minnesota and Federal Reserve Bank of Minneapolis,2328,18,20, ,0, ,Economics,Stanford
+"Pena-Mora, Feniosky",Columbia University,6397,45,117,1.1,5,1.6,Engineering,MIT
+"Gupta, Anupam","Professor of Computer Science, Carnegie Mellon University",9423,53,146,3.0,2,1.0,Computer Science,CMU
+"Hinrichs, Lars","Associate Professor of English Language & Linguistics, The University of Texas at Austin",749,11,15, ,0, ,English,UTexas
+"Kane, Danielle",Purdue University,280,7,7,3.5,1,5.0,Writing,Duke
+"Carter, Brigit",Duke University School of Nursing,293,7,7, ,0, ,Nursing,Duke
+"Brown, Thomas","Rocky Mountain Research Station, U.S. Forest Service",12037,55,118,3.0,4,3.0,Psychology,Yale
+"Law, Ricky","Adjunct Professor of Law, University of Notre Dame Australia",279,8,8,5.0,1,3.0,History,CMU
+"Soluri, John","history department, Carnegie Mellon University",628,10,10,3.9,4,4.0,History,CMU
+"Zhang, John",ECNU and NYU at Shanghai,22754,63,525, ,0, ,Engineering,UTexas
+"Duncan, James","Professor of Biomedical Engineering, Radiology, Electrical Engineering, Yale University",16099,61,201,2.3,3,1.0,Engineering,Yale
+"Yeung, Nick","Dept of Experimental Psychology, University of Oxford",12432,43,64,4.9,4,3.8,Psychology,CMU
+"O'Hallaron, David","Professor of CS and ECE, Carnegie Mellon University",6029,38,74,4.8,3,3.3,Computer Science,CMU
+"Taylor, Lowell","H. John Heinz III Professor of Economics, Carnegie Mellon University",8397,41,68,4.7,6,3.3,Economics,CMU
+"Brunye, Tad","Senior Cognitive Scientist, US Army; Visiting Associate Professor, Tufts U; Program Manager, cABCS",3641,30,80,4.1,7,2.9,Psychology,Tufts
+"Lawrence, Mark","Wissenschaftlicher Direktor, Institute for Advanced Sustainability Studies (IASS-Potsdam)",17151,65,144,3.1,5,2.6,History,UTexas
+"Cross, Troy","Department of Cardiovascular Diseases, Mayo Clinic, USA",290,12,13,5.0,1,3.0,Philosophy,Yale
+"Smith, David","University of Western Australia, PathWest Laboratory Medicine WA",37390,83,609,4.5,2,2.0,Engineering,Duke
+"Abrahamson, Michael","Georgia Institute of Technology, University of Florida",613,7,5,4.5,1,2.0,Physical Education,Harvard
+"Biehl, Joao","Professor of Anthropology, Princeton University",6647,35,47,5.0,1,3.0,Anthropology,Princeton
+"Zakon, Harold","Department of Neuroscience, University of Texas, Austin",5072,43,102,3.5,3,2.3,Biology,UTexas
+"Hendrickson, Chris","University Professor of Engineering, Carnegie Mellon University",13945,57,163,3.5,1,3.0,Engineering,CMU
+"Gross, James","Professor of Psychology, Stanford University",130162,149,395,4.6,16,3.5,Psychology,Stanford
+"Brown, Derek",Scottish Reference Laboratory,4932,34,62,2.5,1,2.0,Economics,Duke
+"Mowry, Todd","Professor of Computer Science, Carnegie Mellon University",10119,54,93,2.2,2,4.0,Computer Science,CMU
+"Buchanan, Bruce","University Professor of Computer Science, University of Pittsburgh",52375,72,199,4.6,7,3.0,Political Science,UTexas
+"King, Sarah","Reader in Behavioural Neuroscience, University of Sussex",2405,25,31,4.6,5,3.0,English,Tufts
+"Wynn, James","Professor of Pediatrics, Pathology, Immunology, and Laboratory Medicine, University of",3737,29,50,5.0,2,2.5,English,CMU
+"Tomlin, Claire",UC Berkeley,20958,64,265,4.3,3,3.3,Engineering,Stanford
+"Schwartz, Jeffrey",UCLA,13524,37,51,3.8,7,3.4,Science,Princeton
+"Touretzky, David","Professor of Computer Science, Carnegie Mellon University",11534,48,113,2.5,3,2.0,Computer Science,CMU
+"Peterson, Jeffrey",Fox Chase,4190,32,46,2.4,6,2.7,Physics,CMU
+"Malewitz, Raymond","Associate Professor of English, Oregon State University",85,6,4, ,0, ,English,Yale
+"Williams, Christine","Professor of Political Science, Bentley University",2804,25,43,2.9,10,2.3,Sociology,UTexas
+"Polansky, Susan",Carnegie Mellon University,70,4,2,4.9,4,2.8,Languages,CMU
+"Sterman, John",MIT Sloan School of Management,42549,72,147,5.0,3,2.3,Management,MIT
+"Mueller, Peter","Professor Statistics, University of Texas",14599,56,186,4.5,1,2.0,Chemistry,MIT
+"Chidsey, Chris",Zugehörigkeit unbekannt,25832,64,111,3.2,9,2.4,Chemistry,Stanford
+"Iwen, Mark",Michigan State University,1437,19,29,3.5,3,3.3,Mathematics,Duke
+"Semmelhack, Martin","Professor of Chemistry, Princeton University",13859,70,160,3.8,9,2.1,Science,Princeton
+"Park, Jeffrey","Department of Geology & Geophysics, Yale University",8616,54,113, ,0, ,Geology,Yale
+"Georgakoudi, Irene","Professor, Tufts University",10018,49,105,2.5,4,1.5,Engineering,Tufts
+"Reich, Rob","Professor of Political Science, Stanford University",2816,26,41,4.9,6,3.3,Political Science,Stanford
+"Becker, Gary",University of Chicago,275122,106,355,4.8,6,2.7,Economics,UChicago
+"Klausner, Michael",Stanford University,3884,20,28,3.4,6,2.7,Law,Stanford
+"Mendez, Danny",Michigan State University,59,3,1,5.0,1,4.0,Languages,UTexas
+"Holahan, ","Professor of Health Behavior & Health Education, The University of Texas at Austin",6806,37,61,4.3,6,2.5,Psychology,UTexas
+"Babus, Ana",Washington University in St. Louis,2219,7,7,1.0,1,1.0,Economics,Princeton
+"Zhou, Xin",St. Jude Children's Research Hospital,11500,27,35,1.6,15,1.7,Mathematics,Duke
+"Williams, Robert","Reader in Molecular and Cellular Neuroscience, University of Bath, UK",8558,37,63, ,0, ,Pharmacy,UTexas
+"Prucnal, Paul","Professor of Electrical Engineering, Princeton University",13676,53,277,5.0,3,3.3,Engineering,Princeton
+"Barbastathis, ","Professor of Mechanical Engineering, Massachusetts Institute of Technology",8063,47,143,2.5,4,3.0,Engineering,MIT
+"Anderson, David","Professor, Colorado State University",103492,70,153,5.0,4,3.2,Mathematics,Duke
+"Anderson, John","Professor of Psychology, Carnegie Mellon University",140827,144,581,4.2,2,2.0,Geology,Rice
+"Spenner, Kenneth","Professor of Sociology, Duke University",2582,21,33, ,0, ,Marketing,Duke
+"Zhu, Jimmy","ABB Professor of Engineering, Carnegie Mellon University",35839,78,831,3.8,7,2.9,Engineering,CMU
+"Aldrich, Eric","University of California, Santa Cruz",559,10,10,3.1,5,3.2,Economics,Duke
+"Achim, Catalina","Professor of Chemistry, Carnegie Mellon University",2904,30,47,3.5,1,3.0,Chemistry,CMU
+"Henkelman, Graeme","Professor of Chemistry, University of Texas",38962,60,172,2.3,3,1.3,Chemistry,UTexas
+"London, Alex",Carnegie Mellon University,2103,28,49,3.0,1,2.0,Philosophy,CMU
+"Srinivasan, Balaji",Stanford University,4082,19,24,4.8,2,2.5,Biology,Stanford
+"Guyer, Samuel",Tufts University,3505,22,29,4.1,5,3.8,Computer Science,Tufts
+"White, Steven","Distinguished Professor of Physics, University of California, Irvine",29965,76,155,5.0,1,3.0,Philosophy,UTexas
+"McDaniel, ","William L. Weiss Professor, Computer Science and Engineering, Penn State Unviersity",28209,70,167,3.5,10,3.7,History,UTexas
+"Sanchez, Juan","Florida International University, Mgmt. and Int'l Business",10308,46,76,4.8,2,1.5,Languages,Duke
+"Barron, Andrew","Professor of Statistics, Yale University",21141,42,77,4.8,3,2.7,Chemistry,Rice
+"Atkinson, Jennifer",University of Pittsburgh,838,11,12,5.0,1,4.0,English,UChicago
+"Rosenblum, Charles","Merck & Co., Inc.",5049,23,27,3.2,2,3.5,Art History,CMU
+"Holmgren, Beth",Duke University,446,12,14,4.9,7,3.9,Not Specified,Duke
+"Moerner, W. E.","Harry S. Mosher Professor of Chemistry, Stanford University",41577,95,294,3.2,2,3.5,Chemistry,Stanford
+"Boadu, Fred",Professor civil engineering,766,15,16, ,0, ,Engineering,Duke
+"Miller, Neil",UC Santa Cruz,3210,17,20,3.5,10,3.0,English,Tufts
+"Doherty, Brian",Doherty Biomechanics,3750,24,29,3.4,15,3.3,English,UTexas
+"Asheghi, Mehdi","Adjunct Professor of Mechanical Engineerig, Stanford University",8270,42,109,1.9,7,2.4,Engineering,CMU
+"Fichman, Mark","Emeritus Associate Professor of Organizational Behavior and Theory, Carnegie Mellon University",7708,22,23,3.1,7,2.9,Business,CMU
+"Dilts, Andrew","Associate Professor of Political Science, Loyola Marymount University",439,9,9, ,0, ,Social Science,UChicago
+"Parent, Sabrina","Research Associate, FNRS ULB",43,3,2,3.5,3,3.7,Languages,UTexas
+"Minehardt, Todd",AIM2,289,10,10,1.8,3,2.0,Chemistry,UTexas
+"Mitchell, Felicia","Assistant Professor, School of Social Work, Arizona State University",106,5,4,3.9,8,3.2,English,Harvard
+"Siegler, Robert","Professor of Psychology, Carnegie Mellon University",47612,106,251,2.0,1,4.0,Psychology,CMU
+"Williams, Nick","Professor of International Security, Politics and International Studies, University of Warwick",3683,28,38,5.0,3,2.7,Psychology,CMU
+"Benson, Sally",Stanford University,10286,54,152, ,0, ,Engineering,Stanford
+"Goldman, Wendy","Professor of History, Carnegie Mellon University",1335,13,14,5.0,2,3.0,History,CMU
+"Jones, Robert","Professor of Engineering Science and Mechanics, Virginia Tech",36264,69,512,5.0,4,4.2,Philosophy,Stanford
+"Hasselblatt, Boris",Tufts University,7001,18,24,4.1,16,2.7,Mathematics,Tufts
+"Kiesler, Sara","Emeritus Hillman Professor of Computer Science and Human Computer Interaction, Carnegie Mellon",62016,99,207,3.5,1,3.0,Computer Science,CMU
+"Raymond, Christopher","Professor in Sustainability Science at HELSUS, University of Helsinki",7478,37,55,4.0,1,4.0,Philosophy,UTexas
+"Clark, John","Columbia University, American Economic Association",9221,29,66, ,0, ,Engineering,Rice
+"Urry, Heather",Tufts University,7103,26,38,3.9,8,3.6,Psychology,Tufts
+"Obodaru, Otilia",Bath University,485,8,7,4.0,1,3.0,Business,Rice
+"Lincove, Jane","University of Maryland, Baltimore County",842,16,23, ,0, ,Not Specified,UTexas
+"Byrne, Susan",University of Western Autralia,5298,38,73, ,0, ,Not Specified,Yale
+"Remick, Elizabeth","Associate Professor of Political Science, Tufts University",224,6,6,3.8,17,2.9,Political Science,Tufts
+"Hallock, ","Professor of Marine Science, University of South Florida",10091,51,133,5.0,1,3.0,Engineering,UTexas
+"Fisher, Eric","Professor of Economics, California Polytechnic State University",1408,19,29,3.5,4,3.0,Architecture,CMU
+"Ly, Jennifer","University of California, San Francisco",225,5,4, ,0, ,Computer Science,Stanford
+"Kroener, Sven","Associate Professor for Neuroscience, The University of Texas at Dallas",2398,24,32,4.5,1,3.0,Not Specified,UTexas
+"Roberts, Jason",University of Queensland,34794,88,503,4.5,1,3.0,Languages,UTexas
+"Pena, Jorge","Associate professor, University of California, Davis",1822,19,26,4.2,2,3.0,Communication,UTexas
+"Bennett, Daniel","Research Professor, Baylor University",558,13,17,4.0,1,2.0,Social Science,UChicago
+"Danks, David","L. L. Thurstone Professor of Philosophy & Psychology, Carnegie Mellon University",2815,23,39,4.0,2,3.0,Philosophy,CMU
+"Arora, Sanjeev","Professor of Computer Science, Princeton University",21157,61,106,2.5,4,2.0,Computer Science,Princeton
+"Nunes, Rodrigo","Professor de Biologia Evolutiva do Desenvolvimento, UFRJ",2037,16,21, ,0, ,Government,UTexas
+"Walker, Graham","American Cancer Society Professor, Massachusetts Institute of Technology",44014,96,298,5.0,7,4.7,Biology,MIT
+"Hines, Eric","Professor of Practice, Tufts University",732,14,26,3.9,6,1.8,Engineering,Tufts
+"Klemanski, David","Yale University, Columbia University",917,11,11,4.7,13,3.4,Psychology,Yale
+"Turner, J",The Ohio State University,5772,36,78,2.6,6,1.7,Physics,UTexas
+"Shirazi, Faegheh","Professor Middle Eastern Studies, University of Texas at Austin",1477,17,34,4.4,4,2.5,Humanities,UTexas
+"Debenedetti, Pablo","Professor of Chemical and Biological Engineering, Princeton University",33293,87,253,4.8,9,2.9,Engineering,Princeton
+"Faulk, Karen",UPMC,153,5,4,4.0,1,3.0,History,CMU
+"Rogers, John","Simpson/Querrey Professor, Northwestern University",124102,173,830, ,0, ,Finance,Stanford
+"Skowronek, Stephen",Yale University,7220,21,33, ,0, ,Political Science,Yale
+"Chan, Anthony A","Li Shu Fan Medical Foundation Professor of Clinical Oncology,The Chinese University of Hong Kong",26588,83,252,2.5,1,1.0,Physics,Rice
+"Wiley, Benjamin","Professor of Chemistry, Duke University",25361,65,100,3.7,3,3.7,Chemistry,Duke
+"Kitschelt, Herbert","Professor of Political Science, Duke University",26469,59,107,3.5,3,2.0,Political Science,Duke
+"Allen, ",University of Reading,140,6,5, ,0, ,Biology,UTexas
+"Gonzalez, ",Universidad de Oviedo - Grupo Modelización Matemática Aplicada,44192,79,196,3.2,5,3.6,Chemistry,UTexas
+"Nordhaus, William",Yale University,67974,112,318,3.8,6,2.5,Economics,Yale
+"Win, Moe","NASA Jet Propulsion Laboratory, AT&T Research Labs, Massachusetts Institute of Technology (MIT)",37552,85,288,4.3,5,4.2,Engineering,MIT
+"Kurnikova, Maria","Associate Professor of Chemistry, Carnegie Mellon University",1991,22,38,2.0,1,2.0,Chemistry,CMU
+"Sanayei, Masoud","Tufts University, CEE Department",2225,22,39,4.3,6,3.2,Engineering,Tufts
+"Yamamoto, Hisashi","Chubu Univ, Univ of Chicago, Nagoya Univ, Univ of Hawaii, Kyoto Univ, Harvard Univ",61068,115,883, ,0, ,Chemistry,UChicago
+"Schroeder, Jonathan","William A. Kern Professor, Rochester Institute of Technology",7256,38,79,2.5,1,2.0,English,UChicago
+"Lechler, Terry",Duke University,3341,25,34,4.5,1,2.0,Biology,Duke
+"Adler, Eric",Professor of Medicine University of California San Diego,3472,19,29,4.2,14,2.9,Classics,Duke
+"Smith-Lovin, Lynn","Robert L. Wilson Professor of Arts and Sciences, Duke University",25873,40,62,5.0,1,3.0,Sociology,Duke
+"Fair, Richard","Professor of Electrical Engineering, Duke University",17096,66,153,3.7,3,3.0,Engineering,Duke
+"Ciperiani, Mirela",University of Texas at Austin,100,5,4,1.5,1,2.0,Mathematics,UTexas
+"Orians, Colin","Professor of Biology, Tufts University",4983,42,90,3.4,4,3.0,Science,Tufts
+"Verplank, ",Stanford University,2451,15,19, ,0, ,Computer Science,Stanford
+"Sikkema, Kathleen",Professor of Psychology and Global Health,11596,58,183,4.5,1,3.0,Psychology,Duke
+"Habib, Muhammad","Professor, COMSATS University Islamabad.",383,8,8,4.2,3,2.0,Languages,Duke
+"Ananat, Elizabeth","Associate Professor of Public Policy and Economics, Sanford School of Public Policy, Duke University",1448,16,17,3.5,5,1.8,Public Policy,Duke
+"Miller, Patricia","Professor of Psychology, San Francisco State University",22475,49,118,3.0,1,4.0,Literature,Duke
+"Skibba, Candace","Associate Teaching Professor, Department of Modern Languages, Carnegie Mellon University",1,1,0,4.8,2,3.5,Languages,CMU
+"George, Linda","Professor of Sociology, Duke University",51564,111,283,4.3,27,3.6,Sociology,Duke
+"Fink, Eric","Associate Professor, Elon University School of Law",91,4,3,4.8,12,3.2,Law,Stanford
+"Lane, Michael","Emory & Henry College, Chemistry Department",4193,31,65,5.0,4,3.2,Chemistry,Harvard
+"Schmitt-Grohe, Stephanie","Professor of Economics, Columbia University",13754,39,55,2.9,4,1.5,Economics,Duke
+"Smith, George",University of Bristol,244342,226,1561,4.2,10,2.0,Philosophy,Tufts
+"Li, Fei-Fei","Professor of Computer Science, Stanford University",89170,99,228,4.0,1,2.0,Computer Science,Princeton
+"Lynch, Scott","Professor of Sociology, Duke University",5014,27,31,4.5,1,2.0,Sociology,Princeton
+"Cohen, Steven",Northeastern University,10762,43,97,4.6,26,3.6,Education,Tufts
+"Whitehead, Kathryn A","Associate Professor of Chemical Engineering, Carnegie Mellon University",6130,26,36, ,0, ,Engineering,CMU
+"Carrasquel, Jacobo","Associate Teaching Professor, School of Computer Science, Carnegie Mellon University",67,4,2,3.4,11,3.4,Computer Science,CMU
+"Sinopoli, Bruno","Electrical and Systems Engineering, Washington University in St Louis",13357,50,104, ,0, ,Engineering,CMU
+"Lahiri, Madhumita",University of Michigan,33,3,2,3.2,2,4.5,English,Duke
+"Georgiou, George",University of Texas at Austin,29326,97,286, ,0, ,Engineering,UTexas
+"Garza, Thomas",University of Texas at Austin,1527,7,6,5.0,9,3.4,Languages,UTexas
+"Fitzpatrick, Brian","Professor of Law, Vanderbilt Law School",867,14,14,4.2,3,2.3,Mathematics,Duke
+"Burkett, Andrew","MD, Division of Resipirology, The Ottawa Hospital",118,4,4,5.0,2,2.0,English,Duke
+"Zwierlein, Martin","Professor of Physics, Massachusetts Institute of Technology",14387,43,54, ,0, ,Physics,MIT
+"Morgan, S. Philip","Director, Carolina Population Center & Professor of Sociology, UNC-CH",16081,62,118,3.8,4,2.8,Sociology,Duke
+"Frame, David",University of Michigan,935,15,19,3.2,5,3.8,Economics,CMU
+"Ritivoi, Andreea","Professor of English, Carnegie Mellon University",471,9,9,5.0,3,3.3,English,CMU
+"Garvin, Alexander",University of Birmingham,437,7,7,3.8,3,3.0,Urban Studies,Yale
+"Sun, Tai-Ping",Duke University,15409,49,59,2.2,10,3.0,Biology,Duke
+"Fox, Justin",Wright Patterson Medical Center,1036,17,25, ,0, ,Political Science,Yale
+"Wechsler, Risa","Professor of Physics, Stanford University",31750,89,233, ,0, ,Physics,Stanford
+"Proctor, David","Professor of Kinesiology, Physiology, and Medicine",9208,40,62,5.0,28,3.6,Classics,Tufts
+"Soibelman, Lucio",所属不明,4242,35,74,2.9,6,3.7,Engineering,CMU
+"Voldman, Joel","Professor of Electrical Engineering, Massachusetts Institute of Technology",7992,40,73,4.0,1,2.0,Engineering,MIT
+"Williams, Robert","Reader in Molecular and Cellular Neuroscience, University of Bath, UK",8558,37,63,4.5,1,4.0,Philosophy,Duke
+"Fisher, Robert","Professor of Informatics, University of Edinburgh",14734,48,175, ,0, ,Medicine,Stanford
+"Freudenriech, Catherine","Professor of Biology, Tufts University",2477,25,34,3.5,1,2.0,Biology,Tufts
+"Tilton, Robert","Professor of Chemical Engineering and Biomedical Engineering, Carnegie Mellon University",12381,56,110,4.0,1,4.0,Engineering,CMU
+"Ferraro, Thomas",Rowan University,5924,39,103,3.7,23,2.2,English,Duke
+"Kelley, Wyn",Massachusetts Institute of Technology,490,9,9,4.0,1,3.0,Literature,MIT
+"Muschkin, Clara","Associate Research Professor, Duke University",883,14,17, ,0, ,Public Policy,Duke
+"Dugan, Brandon","Department of Geophysics, Colorado School of Mines",3990,31,65,5.0,2,3.5,Geology,Rice
+"Johnsen, Sonke","Professor of Biology, Duke University",5796,40,100,3.6,6,2.7,Biology,Duke
+"Barth, Alison","Professor of Biological Sciences, Center for the Neural Basis of Cognition",3315,29,39, ,0, ,Biology,CMU
+"Singer, Michael",plymouth university,7520,48,80,4.1,7,3.1,Biology,UTexas
+"Kelly, Kevin","Assoc. Prof. of Electrical & Computer Engineering, Rice University",11162,40,66,4.0,1,3.0,Philosophy,CMU
+"Miller, Scott J.",Yale University,17275,69,157,5.0,1,1.0,Chemistry,Yale
+"Miller, David",所属不明,105321,167,808,4.2,2,4.0,History,CMU
+"Kelly, William",Emory University Biology Department,6635,30,35,3.6,8,3.6,Social Science,UTexas
+"Ganger, Greg","Jatras Professor, Carnegie Mellon University",18049,75,172,5.0,1,3.0,Engineering,CMU
+"Falba, Tracy","Visiting Assistant Professor of Economics, Duke University",1856,18,19,2.7,3,3.3,Economics,Duke
+"Chou, Cp","Professor of Preventive Medicine, University of Southern California",19604,66,150,5.0,1,3.0,Languages,Princeton
+"Lorig, Matthew",University of Washington,458,12,16,4.5,1,3.0,Engineering,Princeton
+"Beal, Daniel","Virginia Tech, Department of Management",7317,31,35,3.8,4,2.0,Psychology,Rice
+"Frieze, Alan",Carnegie Mellon University,19536,68,272,4.1,4,4.0,Mathematics,CMU
+"Arbogast, Todd","Professor of Mathematics, University of Texas at Austin",6119,37,76,4.7,3,1.3,Mathematics,UTexas
+"Tonon, Fulvio","University of Udine, Italy; Tonon USA and Laboratorio Rocce e Ricerca Tonon",2462,28,50,2.0,1,2.0,Engineering,UTexas
+"Kim, Miryung","Full Professor, Computer Science, University of California, Los Angeles",5005,35,55,1.7,3,2.0,Engineering,UTexas
+"Hannan, Michael T.",Stanford University,51922,76,132,5.0,1,3.0,Business,Stanford
+"Yang, Dali","William C. Reavis Professor of Political Science and the College, The University of Chicago",4663,31,54,3.6,4,2.8,Political Science,UChicago
+"Parr, Jonathan","Assistant Professor, University of North Carolina at Chapel Hill",545,10,11,3.9,4,2.8,Chemistry,Yale
+"Nan, Lin","professor of sociology, duke university",56817,62,108,3.5,1,3.0,Accounting,CMU
+"Gute, David","Professor of Civil and Environmental Engineering, Tufts University",1213,20,39,4.4,7,4.1,Engineering,Tufts
+"Dobbins, Ian","Professor of Psychology, Washington University in Saint Louis",5587,35,53,3.8,4,3.0,Psychology,Duke
+"Meyers, Lauren","Professor of Integrative Biology, The University of Texas at Austin",8454,46,85, ,0, ,Biology,UTexas
+"Rai, Mridu","Presidency University, Kolkata (India)",306,3,1,4.7,3,3.7,History,Yale
+"Aven, Brandy","Tepper School of Business, CMU",300,7,5,3.5,2,3.5,Business,CMU
+"Cooper, Douglas","Douglas Winslow Cooper, Ph.D., LLC",2370,25,52,4.6,4,3.5,Architecture,CMU
+"Hall, Mary","Professor, School of Computing, University of Utah",7227,45,93, ,0, ,Nursing,Duke
+"Hariri, Ahmad","Professor of Psychology & Neuroscience, Duke University",35406,89,200,4.9,7,2.7,Psychology,Duke
+"Hamilton, James",University of California at San Diego,67744,66,89,4.4,6,2.8,Public Policy,Duke
+"White, Robert",Cambridge University,18612,70,227,5.0,5,2.4,Engineering,Tufts
+"Gross, Mark D","Professor of Computational Design, Carnegie Mellon University",5562,39,110, ,0, ,Architecture,CMU
+"Goldstein, Gary",Kennedy Krieger Institute   johns hopkins university,9573,50,109,2.1,4,3.2,Physics,Tufts
+"Teitsworth, Stephen","Dept. of Physics, Duke University",1224,20,31,4.8,8,3.5,Physics,Duke
+"Cronin-Golomb, Mark",Professor of Biomedical Engineering,7764,46,103,2.2,8,3.0,Electrical Engineering,Tufts
+"Pangle, Thomas","Professor of Government, University of Texas",3511,24,44,4.3,10,2.4,Political Science,UTexas
+"Bradley, David",KnuEdge Inc,6375,26,41,3.3,10,3.3,Psychology,UChicago
+"Li, Min","Professor of Aeronautical & Aviation Engineering and Mechanical Engineering, HKPolyU",8972,52,196,5.0,1,4.0,Management,Duke
+"Jordan, William",Emory University,5192,33,81,4.7,6,2.2,History,Princeton
+"Beveridge, Andrew","Professor of Sociology, Queens College and Graduate Center CUNY",1402,21,31,4.5,1,3.0,Mathematics,CMU
+"Johnson, David","Visiting Professor, Columbia University Computer Science Department",231876,136,637,4.0,12,2.5,Economics,Stanford
+"Smith, Trevor",University of West Indies (UWI),645,7,6,4.9,8,3.9,Music,Harvard
+"Deserno, Markus","Professor of Physics, Carnegie Mellon University",7226,43,79,5.0,2,3.5,Physics,CMU
+"Rowley, Clarence","Professor of Mechanical and Aerospace Engineering, Princeton University",15530,49,112,2.5,4,2.2,Engineering,Princeton
+"Mitchener, Garrett","Professor of Mathematics, College of Charleston",302,8,7,4.5,2,3.0,Mathematics,Duke
+"Wolfe, Jeremy","Professor of Ophthalmology & Radiology, Harvard Medical School, Brigham & Women's Hospital",33077,83,222,4.4,9,3.7,Psychology,MIT
+"Adamchik, Victor",Carnegie Mellon University,1856,19,27,3.0,30,2.9,Computer Science,CMU
+"Freudenreich, Catherine","Professor of Biology, Tufts University",2477,25,34,2.6,16,1.6,Science,Tufts
+"Tighe, Rosie",Cleveland State University,526,10,11,5.0,1,2.0,Social Science,UTexas
+"Suter, Robert",Carnegie Mellon University,5403,36,74,5.0,1,3.0,Physics,CMU
+"Bryen, Ari",Vanderbilt University,193,7,5,3.0,1,1.0,Classics,UChicago
+"Magleby, Daniel",Binghamton University (SUNY),62,4,3,4.6,4,3.8,Political Science,Duke
+"Bloom, Paul","Brooks and Suzanne Ragen Profesor of Psychology, Yale University",31760,78,180,3.4,11,3.1,Psychology,Yale
+"Lawrence, Christopher",Department of Biological Sciences,5293,39,53,3.3,7,4.0,Political Science,Duke
+"Martin, John",Institute of Progressive Medicine,8568,38,92,4.5,4,3.2,History,Duke
+"Reid, Robert",University of Nebraska,16650,68,172,4.4,7,3.3,Engineering,CMU
+"Sagarin, Raphael","Biosphere 2, University of Arizona",3305,21,27, ,0, ,Science,Duke
+"Richards, Daniel","Postdoctoral Research Associate, Imperial College London",376,8,7,3.2,58,2.7,Economics,Tufts
+"Cox, Landon","Professor of Computer Science, Duke University",8250,34,44,2.2,7,1.0,Computer Science,Duke
+"Cuellar, ","Genentech, Inc.",2688,13,14,3.5,3,3.3,Law,Stanford
+"Johnstone, Barbara","Professor Emerita of Rhetoric and Linguistics, Carnegie Mellon University",9757,41,78,3.2,2,1.5,English,CMU
+"Kelly, Kevin","Assoc. Prof. of Electrical & Computer Engineering, Rice University",11162,40,66, ,0, ,Engineering,Rice
+"Cooper, Andrew",University of Liverpool,32308,96,265,4.2,3,2.0,English,UTexas
+"Bar, Neta","PhD Student, Yale University",12,1,1, ,0, ,Anthropology,Duke
+"Li, Zhiqiang","Senior Scientist, Sema4-Mount Sinai Genomics Inc.",1185,7,7,4.9,8,3.8,Chinese,Tufts
+"Friedman, Morton","Ohio State University, Duke University",6066,42,89,4.0,1,2.0,Engineering,Duke
+"Turner, Kathleen",Drexel University,133,2,1,3.0,3,2.3,Nursing,Duke
+"Nelson, Alondra",Institute for Advanced Study and Social Science Research Council,2731,17,22,4.7,3,1.3,Sociology,Yale
+"Yao, Yuan","Assitant Professor of Applied Chemistry, National University of Kaohsiung",3185,30,38,5.0,4,4.5,Chinese,Duke
+"Marlow, Daniel","Professor of Physics, Princeton University",127522,174,928,4.5,3,3.3,Physics,Princeton
+"Daly, John",University of Texas,15388,61,138,4.3,34,1.9,Communication,UTexas
+"Klivans, Adam","Professor of Computer Science, University of Texas at Austin",2619,29,45,3.5,2,1.5,Computer Science,UTexas
+"Wiseman, Thomas","Economics, University of Texas",3395,14,16,4.2,2,4.0,Economics,UTexas
+"Kalra, Ajay","Assistant Professor, Southern Illinois University Carbondale",1937,23,36,4.0,1,3.0,Business,CMU
+"Liechti, Kenneth",University of Texas Austin,5040,36,100,3.1,4,1.5,Engineering,UTexas
+"Cacioppo, John",University of Chicago,164637,166,477,3.8,11,1.8,Psychology,UChicago
+"Singh, Vishal","Associate Professor, National Institute of Technology, Hamirpur, Himachal Pradesh",4451,21,84,5.0,1,5.0,Business,CMU
+"Mc Neil, Mc Neil, S.","Professor of Medicine, Infectious diseases, Dalhousie University",7665,43,117, ,0, ,Not Specified,UTexas
+"Sheffi, Yossi","professor of Engineering Systems, MIT",7281,29,45,4.5,1,3.0,Engineering,MIT
+"Herrero Senes, J","Associate Professor of Spanish literature, University of Colorado Boulder",72,5,0,4.0,4,2.8,Not Specified,Duke
+"Nehamas, Alexander","Professor of Philosophy, Princeton University",6903,36,55,4.4,4,2.0,Philosophy,Princeton
+"Regnerus, M","Professor of Sociology, University of Texas at Austin",8664,39,49,3.9,8,3.4,Sociology,UTexas
+"Antoulas, Athanasios",Rice University,9572,37,74,4.5,1,3.0,Engineering,Rice
+"Giovannoni, Olivier","Assistant Professor of Economics, Bard College",185,7,5,4.8,2,3.0,Economics,UTexas
+"White, Brian","Pediatric Cardiology Fellow, Children's Hospital of Philadelphia",2823,17,19,4.8,5,3.0,Mathematics,Stanford
+"Erwin, Zachary",St. Mark’s School of Texas,6,1,0,4.5,2,4.0,Languages,Duke
+"Sharp, Richard",Mayo Clinic,10947,37,89,2.7,3,2.0,Mathematics,UTexas
+"Rectenwald, Michael",New York University,131,6,4,4.8,3,4.3,Writing,Duke
+"Bacon, Neil",Afiliação desconhecida,394,8,8, ,0, ,Physical Ed,Yale
+"Ydstie, Erik","Professor Chemical Engineering, Carnegie Mellon",6567,38,93,4.3,3,2.3,Engineering,CMU
+"Schiebinger, Londa","John L. Hinds Professor of History of Science, Stanford University",12100,40,84,4.5,1,2.0,History,Stanford
+"Harris, John","Professor of Physics, Yale University",135559,167,843,3.7,3,2.3,Physics,Yale
+"Carroll, Jeffrey","Associate Professor, Behavioral Neuroscience, Department of Psychology, Western Washington",2094,20,27,1.4,9,2.3,Computer Science,CMU
+"Paradiso, Joseph","Professor, MIT Media Lab",18167,60,175,5.0,1,4.0,Media Arts,MIT
+"Whigham, ","Senior Botanist, Smithsonian Institution",13997,62,176,3.2,18,2.3,English,UTexas
+"Karadkar, Unmil",Assistant Professor,352,10,11, ,0, ,Information Science,UTexas
+"Brizuela, Barbara",Tufts University,2868,24,40,2.2,4,3.0,Education,Tufts
+"Farrell, John",Brown University,3233,25,30, ,0, ,English,UTexas
+"Guest, James",University of Miami,4668,33,45,5.0,2,4.0,Engineering,Princeton
+"Anderson, David","Professor, Colorado State University",103492,70,153,4.5,3,4.7,Physics,CMU
+"Chang, Howard",Stanford University,70110,110,393,2.0,1,2.0,Mathematics,Duke
+"King, Jonathan",CSIRO Energy,5523,33,64,4.5,1,4.0,Biology,MIT
+"Laughlin, Charles","Chinese Literature, University of Virginia",290,5,4,1.5,1,3.0,East Asian Studies,Yale
+"Beliaev, Dmitry","Mathematical Institute, University of Oxford",315,12,13,3.2,2,2.0,Mathematics,Princeton
+"Zin, Stanley","Professor of Economics, New York University",9335,25,31,4.7,5,3.0,Finance,CMU
+"Gonzalez, Jose",Wellcome Trust Sanger Institute,14009,25,36,2.0,3,2.3,Classics,Duke
+"Bump, Jerome",Prof Emeritus English U of Texas,762,11,13,3.8,3,2.7,English,UTexas
+"Rathje, Ellen","Professor of Civil Engineering, University of Texas",5624,38,99,2.2,2,1.5,Engineering,UTexas
+"Katz, David",Professor Duke University,11958,63,159,4.5,6,3.3,Engineering,Duke
+"Arcidiacono, Peter","Professor of Economics, Duke University",5273,32,37,4.2,11,2.4,Economics,Duke
+"Iyoob, Ilyas","Faculty, University of Texas at Austin",373,9,9, ,0, ,Engineering,UTexas
+"Andriacchi, Thomas",Stanford University,34506,97,247, ,0, ,Engineering,Stanford
+"Hammond, John","Principal Research Fellow, University of Reading",7411,38,59,2.5,3,2.0,Mathematics,UTexas
+"Choi, Namkee",University of Texas at Austin Professor of social work,5057,38,106, ,0, ,Social Work,UTexas
+"Denniston, Ryan",Duke University,122,4,2,3.0,2,3.5,Sociology,Duke
+"Shea, Andrew",University of Florida,423,13,14, ,0, ,Film,UTexas
+"Quenemoen, Caroline",Rice University,68,5,2,5.0,6,2.2,Art History,Rice
+"Biegalski, Steven","Professor, Georgia Institute of Technology",1642,20,41,4.6,19,3.1,Engineering,UTexas
+"Pfau, Thomas",Duke University,779,13,19,4.4,15,2.5,English,Duke
+"Weisman, Bruce",Rice University,19916,51,116,2.8,4,3.0,Chemistry,Rice
+"Simpson, Beryl",Professor of Integrative Biology,8644,47,114, ,0, ,Biology,UTexas
+"Luchs, Michael",William & Mary,2524,16,18, ,0, ,Marketing,UTexas
+"Liu, Gang","SYNL, Institute of Metal Research, CAS",26441,70,189,5.0,2,3.5,Languages,CMU
+"Smith, Philip","Professor of Sociology, Yale University",7733,38,68,4.8,3,3.0,Sociology,Yale
+"LI, YE","Professor of the School of ECE, Georgia Institute of Technology",39810,84,299,4.1,6,2.7,Mathematics,Duke
+"Lang, John","Associate Professor of Sociology, Occidental College",833,8,8,3.8,16,1.7,English,Harvard
+"Brennan, Geoffrey","Professor of Philosophy, Australian National University and Distinguished Visiting Professor, UNC Chapel Hill/Duke University",24156,52,155,4.0,2,4.0,Economics,Duke
+"Page, Robert",Arizona State University,19630,76,219,4.1,8,2.1,Music,CMU
+"MacKey, John","Professor of Oncology, University of Alberta",38588,97,275,4.9,24,2.3,Mathematics,CMU
+"Majetich, Sara","Professor of Physics, Carnegie Mellon University",7916,46,102,2.4,8,1.8,Physics,CMU
+"Dunn, Mary",St. Edward's University,1010,5,4,4.0,2,3.5,Management,UTexas
+"Morewedge, Carey","Professor of Marketing | Everett W. Lord Distinguished Faculty Scholar, Boston University",4621,29,45,4.8,3,2.7,Social Science,CMU
+"Barnett, Fiona","Head of Sport & Exercise Science, College of Healthcare Sciences, James Cook University",803,14,19, ,0, ,Literature,Duke
+"Wilkinson, Carol","Professor of Teacher Education, Brigham Young University",620,13,15,4.8,12,2.8,English,Tufts
+"Iris, Chyi",University of Texas at Austin,2847,25,38,2.0,1,2.0,Journalism,UTexas
+"Dell'Antonio, Andrew","Distinguished Teaching Professor of Musicology, University of Texas at Austin",261,8,5,5.0,4,4.5,Music,UTexas
+"Walker, James","Professor, Indiana University, Bloomington",21024,50,79, ,0, ,Biology,UTexas
+"Harrison, Chris","Professor of Human-Computer Interaction, Carnegie Mellon University",6732,45,73, ,0, ,Computer Science,CMU
+"Fields-Black, Edda","Associate Professor, Carnegie Mellon University, Department of History",130,3,3,5.0,1,1.0,History,CMU
+"Coates, Michael","Professor, Organismal Biology & Anatomy, University of Chicago",5467,39,72,4.5,1,2.0,Biology,UChicago
+"Anderson, Sarah","Division of Epidemiology, The Ohio State University, College of Public Health",6066,34,45,4.8,2,1.5,English,Princeton
+"Curtis, Lesley","Research Officer, University of Kent",4285,14,15,4.5,1,2.0,Languages,Duke
+"Rohde, Gustavo",University of Virginia,4849,32,66, ,0, ,Engineering,CMU
+"Yucel, Sakir",所属不明,261,9,8,4.3,3,3.3,Communication,CMU
+"Brown, Tony","Conjoint Fellow School of Medicine & Public Health; PhD Scholar (Law) University Of Newcastle, NSW",8214,42,115,4.6,11,2.6,Public Policy,Duke
+"Davis, Mark",Stanford University,79844,140,442,3.9,18,4.5,Music,Harvard
+"Munoz, Vincent","Associate Professor of Political Science, University of Notre Dame",346,9,9,4.0,1,2.0,Political Science,Tufts
+"Gleason, William","Associate Professor of Laboratory Medicine and Pathology, University of  Minnesota",2103,28,59,5.0,1,3.0,English,Princeton
+"Wu, Hung",University of California at Berkeley,5190,30,63,4.6,5,2.8,Art History,UChicago
+"Butler, Kent",University of Central Florida,1789,20,25, ,0, ,Architecture,UTexas
+"Szelenyi, Ivan",Max Weber Emeritus Professor of Social Sciences NYUAD,12129,48,116,4.8,3,4.3,Sociology,Yale
+"Hastings, Justine",Brown University and NBER,5548,32,39,1.8,12,2.3,Economics,Yale
+"Feng, Gang",University of Electronic Science and Technology of China,4096,26,68,2.1,12,3.8,Psychology,Duke
+"Clark, Margaret",Yale University,21098,65,115,1.8,6,3.7,Biology,Duke
+"Howell, David",The New School,2613,22,34,5.0,2,3.0,History,Princeton
+"Logan, Jessica","The Ohio State University, Quantitative Research, Evaluation, and Measurement",1620,24,46,5.0,1,4.0,Psychology,Rice
+"Athreya, Jayadev","Associate Professor, Department of Mathematics, University of Washington",561,12,17,2.3,13,2.4,Mathematics,UChicago
+"Campbell, Eric",University of Colorado,13371,52,100,5.0,1,2.0,Linguistics,UTexas
+"Weaver, Christopher",U.S. Environmental Protection Agency,3508,31,44,4.6,4,1.8,Engineering,MIT
+"Goldstein, David",Columbia University,67046,117,331,4.9,4,2.5,Biology,Duke
+"Labar, Kevin",Duke University,22501,71,138,3.0,10,2.1,Psychology,Duke
+"Shultz, Mary Jane","Tufts University, Chemistry Department",3684,29,49,1.7,15,1.7,Chemistry,Tufts
+"Palmer, Richard","Department Head, Department of Civil and Environmental Engineering, University of Massachusetts Amherst",5275,30,66,2.8,25,3.0,Chemistry,Duke
+"Pomerantz, James","Professor of Psychology, Rice University",6092,30,42,4.9,4,4.2,Psychology,Rice
+"Blatti, Stephan","Chair and Associate Professor of Philosophy, University of Memphis",262,6,6,4.3,6,3.3,Philosophy,Duke
+"Piggott, Adam",University of Queensland,95,5,2,4.0,10,3.0,Mathematics,Tufts
+"Madiman, Mokshay",University of Delaware,1359,21,36, ,0, ,Statistics,Yale
+"Smiljanic, Rajka","Linguistics, University of Texas at Austin",1400,20,24,4.0,1,4.0,Linguistics,UTexas
+"Reitter, David",Google Research; Penn State,1464,19,32,3.7,3,3.3,Psychology,CMU
+"Sims, Christopher","Professor of Economics, Princeton University",62906,78,161, ,0, ,Documentary Studies,Duke
+"Stanley, Denise",California State University-Fullerton,1055,15,21,4.2,9,3.0,Accounting,Harvard
+"Boaler, Jo","Professor of Mathematics Education, Stanford University",13539,45,73,5.0,3,2.3,Education,Stanford
+"Davis, Andrew","AstraZeneca, Fisons, Astra, University of Kent",5850,33,53,3.2,2,3.0,Medicine,UChicago
+"Akinci, Burcu","Professor of Civil and Environmental Engineering, Carnegie Mellon University",8251,44,111,4.1,4,4.8,Engineering,CMU
+"Logan, Thad","Lecturer in English and the Humanities, Rice University",357,4,3,4.4,7,3.4,English,Rice
+"Klein, Joshua","Associate Professor of Neurology and Radiology, Harvard Medical School",4390,21,35,5.0,3,2.7,Physics,UTexas
+"Pagani, Mark","Professor,Yale University",18882,45,60, ,0, ,Geology,Yale
+"D'Andrea, Anthony",University of Chicago,925,9,9,5.0,4,2.0,Anthropology,UChicago
+"Wilson, Yolonda ","Assistant Professor of Philosophy, Howard University",52,3,2,2.0,1,4.0,Philosophy,Duke
+"Stein, Luke","Assistant Professor of Finance, Babson College",445,5,5, ,0, ,Economics,Stanford
+"Allard, Scott",University of Washington,1433,17,21,3.2,5,2.4,Social Work,UChicago
+"Connolly, Thomas","Professor, University of the West of Scotland",10468,38,80,4.9,11,2.2,Theater,Tufts
+"Clement, Henry","Emeritus Professor, Universuty of Texas at Austin and Former Chair, Political Science Department",3566,23,52,2.1,4,2.5,Political Science,UTexas
+"Arnold, Oliver",Dresden University of Technology,950,9,9, ,0, ,English,Princeton
+"Thompson, Mark",King Fahd University of Petroleum & Minerals,108172,148,600,5.0,1,3.0,English,CMU
+"Wall, Christine",Research Professor,2706,26,44,5.0,3,3.0,Anthropology,Duke
+"Garrison, Mark","Professor of Education, Killgore Research Center, West Texas A&M University",320,6,5,4.0,1,4.0,Languages,UTexas
+"Matsuda, Seiichi",Rice University Department of Chemistry and Department of BioSciences,5546,42,66,2.3,9,2.2,Chemistry,Rice
+"Anslyn, Eric",University of Texas at Austin,26278,92,292,4.1,5,2.0,Chemistry,UTexas
+"Baise, Laurie",Tufts University,1897,22,32,4.3,11,3.4,Civil Engineering,Tufts
+"Swendsen, Robert","Professor of Physics, Carnegie Mellon University",24907,50,108,3.5,10,1.8,Physics,CMU
+"De Vidal, Douglas",Universidade Nove de Julho,1,1,0,2.5,2,1.0,Accounting,UTexas
+"Rogers, John","Simpson/Querrey Professor, Northwestern University",124102,173,830, ,0, ,English,Yale
+"Khasawneh, Firas",Michigan State University,524,14,15,2.6,12,1.6,Engineering,Duke
+"Hensley, Nathan","Assistant Professor of Sustainability Education, Bowling Green State University",80,5,2, ,0, ,English,Duke
+"Marshall, Steven",University of Wisconsin-Madison,2528,22,33,3.5,1,3.0,Political Science,UTexas
+"Laycock, Douglas",Univesity of Virginia,9368,48,85,4.0,3,2.3,Law,UTexas
+"Stolarick, Kevin","Future Skills,Ted Rogers School of Management's Diversity Institute, Ryerson University",3285,24,38,2.7,7,2.9,Computer Science,CMU
+"Flowers, Jason",Murraysmith,376,6,5,5.0,1,5.0,Advertising,UTexas
+"Johnson, Steven","Professor of Applied Mathematics and Physics, Massachusetts Institute of Technology",56411,81,265,1.5,1,2.0,Mathematics,MIT
+"Stevens, Scott",Intermountain Medical Center and University of Utah,7881,32,45,3.5,5,1.4,Biology,UTexas
+"Beilock, Sian","Barnard College, Columbia University",16850,61,98,2.0,1,1.0,Psychology,UChicago
+"Qiu, Lili","Professor, Dept. of Computer Science, The University of Texas at Austin",13755,56,125,4.0,1,1.0,Computer Science,UTexas
+"Jacobsohn, Gary","Professor of Government, University of Texas ar Austin",1209,17,22,2.2,2,3.0,Political Science,UTexas
+"Zimmerman, Robert","Department of Earth Science and Engineering, Imperial College, London, UK",20464,58,132,3.3,13,4.1,Music,Duke
+"Adler, Eric",Professor of Medicine University of California San Diego,3472,19,29,5.0,1,3.0,History,Rice
+"Yezer, Caroline","Strassler Center for Holocaust and Genocide Studies, Clark University",82,6,4,5.0,2,3.0,Anthropology,Duke
+"Kesten, Onur",Carnegie Mellon University,1241,17,22,3.6,8,3.1,Economics,CMU
+"Wong, David",George Mason University,8104,40,83,4.4,10,3.4,Philosophy,Duke
+"Panetta, Karen","Associate Dean of Graduate Education, Tufts Univeristy",4156,28,78,3.5,16,2.9,Electrical Engineering,Tufts
+"Quinn, Brian",University of the West of Scotland,2119,22,25,4.0,2,2.0,Physics,CMU
+"Olson, Jon","Petroleum and Geosystems Engineering, University of Texas at Austin",8069,43,73,2.5,2,2.5,Engineering,UTexas
+"O'Rourke, Keith",O'Rourke Consulting,13280,36,62,1.2,6,2.5,Mathematics,Duke
+"Kohler, Jennifer","Associate Professor of Biochemistry, UT Southwestern Medical Center",1977,24,41,3.2,3,3.0,Chemistry,Stanford
+"Seidenfeld, Teddy",Carnegie Mellon,3370,32,66,4.5,1,5.0,Philosophy,CMU
+"Luco, Andres",Nanyang Technological University,71,3,2,4.2,3,3.0,Philosophy,Duke
+"Ochsendorf, John","Professor, Massachusetts Institute of Technology",3474,28,56,5.0,2,3.5,Architecture,MIT
+"Zhang, Yongtao","Professor, University of Notre Dame",2594,28,40, ,0, ,Languages,Princeton
+"Dalmas, Franck",Unknown affiliation,8,1,0,1.5,2,1.0,Languages,Duke
+"Bullock, Barbara",The University of Texas at Austin,1614,19,31, ,0, ,Linguistics,UTexas
+"Adams, Paul",Lawrence Berkeley Laboratory & UC Berkeley,77461,82,242,3.2,9,3.2,Geography,UTexas
+"Gmachl, Claire","Professor of Electrical Engineering, Princeton University",18845,69,232,5.0,1,5.0,Engineering,Princeton
+"Meck, Warren","Professor of Psychology and Neuroscience – Duke University, USA",30324,91,196,2.7,20,2.5,Psychology,Duke
+"Prevost, Jean",Professor of Civil and Environmental Eng.,10666,53,136, ,0, ,Engineering,Princeton
+"Anderson, Ruth","Virginia Stone Professor of Nursing, Duke University",10285,49,146,5.0,1,3.0,Nursing,Duke
+"Walser, Joseph",Tufts University,203,5,3,4.7,9,2.9,Theology,Tufts
+"Wolf, John","Dept. of Neurosurgery, University of Pennsylvania",3889,26,37, ,0, ,Anthropology,Stanford
+"Meyer, Joel","Associate Professor of Molecular Toxicology, Duke University",6981,42,79,4.2,15,3.9,Ecology & Evolutionary Biology,Duke
+"Siroky, David","Associate Professor of Political Science, Arizona State University",931,13,18,5.0,1,4.0,Political Science,Duke
+"Brady, David","Michael J. Fitzpatrick Endowed Professor of Photonics, Duke University",14109,61,230,4.5,3,3.0,Political Science,Stanford
+"Cai, Jie",Drexel University,2029,16,22,4.6,24,3.8,Languages,Duke
+"Schneider, James",NAVFAC,2073,23,37,4.8,3,3.3,Engineering,CMU
+"Bonevac, Daniel","Professor of Philosophy, University of Texas at Austin",1068,18,31,4.4,24,3.9,Philosophy,UTexas
+"Hurst, William",Northwestern University,1145,14,16,4.0,1,1.0,Government,UTexas
+"Lewis, Sara","Professor of Biology, Tufts University",5155,40,78,5.0,3,3.7,Science,Tufts
+"Gildin, Eduardo","Associate Professor, Texas A&M University",891,18,33, ,0, ,Engineering,UTexas
+"Martin, Felipe",Universidad Nacional Mayor de San Marcos,1983,22,48,1.3,10,2.3,Economics,Tufts
+"Loewenstein, George","Professor, Carnegie Mellon University",106789,139,304,4.0,1,2.0,Social Science,CMU
+"Griffith, Marie","Professor, Washington University in St. Louis",1427,12,13,4.7,3,2.3,Religion,Princeton
+"Goldberg, Adele","Professor of Psychology, Princeton University",27061,51,86, ,0, ,Psychology,Princeton
+"Astrachan, Owen",Professor of the Practice of Computer Science,1799,24,34,4.0,65,3.5,Computer Science,Duke
+"Doubechies, Ingrid",Duke University,91941,75,183, ,0, ,English,Princeton
+"Tezduyar, Tayfun E.","James F. Barbour Professor of Mechanical Engineering, Rice University; Professor, Waseda University",29667,94,306,3.5,1,1.0,Engineering,Rice
+"Campana, Alessandra","PhD Student, CNR-ISMN and UniBo",383,6,6,3.2,6,3.8,Music,Tufts
+"Klenow, Pete","Professor of Economics, Stanford University",23374,40,47,5.0,3,2.3,Economics,Stanford
+"Perelman, Les","Director of Writing Across the Curriculum, Retired and Research Affilate MIT",354,9,9,3.0,2,4.0,Literature,MIT
+"Vengosh, Avner","Professor of geochemistry and water quality, Duke University",14294,59,138,2.8,2,2.5,Geology,Duke
+"Mentzer, Mark",Professor of Mathematics and Engineering,271,9,9,4.4,11,2.9,Fine Arts,CMU
+"Achar, Pramod","Professor of Mathematics, Louisiana State University",725,18,24,4.4,6,2.8,Mathematics,UChicago
+"Bartel, David","Professor of Biology, HHMI, MIT, Whitehead Institute",181625,117,192,4.0,1,3.0,Biology,MIT
+"Lee, Yoonkyung","Professor of Statistics, Ohio State University",2423,16,21,4.8,2,3.5,Political Science,Duke
+"Bahuaud, Eric",Seattle University,153,9,9,4.8,2,2.0,Mathematics,Stanford
+"Crews, Kelley","Geography & the Environment, University of Texas - Austin",1629,19,28,4.8,2,3.5,Geography,UTexas
+"Park, Minjung","Associate Professor, Department of Economics, Ewha Womans University",462,7,6,4.5,1,4.0,Languages,UTexas
+"Kaya, Yunus",Istanbul University,386,7,6,4.2,2,5.0,Sociology,Duke
+"Rosen, Gideon","Professor of Philosophy, Princeton University",4805,27,41,4.2,10,2.8,Philosophy,Princeton
+"Yang, Changhuei","Thomas G Myers Professor, California Institute of Technology",18626,63,201, ,0, ,Engineering,Rice
+"Krueger, Alan",Princeton University,119459,129,357,3.0,3,3.7,Economics,Princeton
+"Gassman-Pines, Anna","Associate Professor of Public Policy, Sanford School of Public Policy, Duke University",967,16,21,5.0,1,4.0,Psychology,Duke
+"Wilcox, Gary",John A. Beck Centennial Professor in Communication,968,18,25,4.2,6,2.0,Communication,UTexas
+"Clark, Margaret",Yale University,21098,65,115,1.5,1,4.0,Psychology,Yale
+"Mamonov, Alexander",University of Houston,360,8,8,3.7,3,2.7,Mathematics,UTexas
+"Krishnan, Ramayaa",Carnegie Mellon University,19461,61,185,2.0,2,2.0,Management,CMU
+"Young, Patrick",Internationella Engelska Gymnasiet Södermalm,1643,16,17,4.4,7,4.4,Computer Science,Stanford
+"Kalra, Ajay","Assistant Professor, Southern Illinois University Carbondale",1937,23,36,4.5,1,4.0,Music,UTexas
+"Jackson, Virginia",UC Irvine,928,10,11,4.3,8,3.0,English,Tufts
+"Zeitlin, ",University of Amsterdam,12469,52,97,3.7,3,2.7,Literature,Princeton
+"Wynn, Karen","Professor Emerita of Psychology and Cognitive Science, Yale University",13252,44,65,4.5,2,2.5,Psychology,Yale
+"Rowe, Timothy","Professor of Paleontology, The Jackson School of Geosciences, University of Texas at Austin",9365,50,91,3.9,7,2.1,Geology,UTexas
+"Matyjaszewski, Krzysztof",Carnegie Mellon University,150084,187,1153,4.2,2,2.5,Chemistry,CMU
+"Patton, James",Vanderbilt University,8330,42,77,4.8,8,3.2,Education,UTexas
+"Vandervelde, Thomas",Tufts University,1100,17,28,4.8,2,1.0,Electrical & Comp. Engineering,Tufts
+"Christensen, Jens","Professor, University of Copenhagen",41883,62,117,4.6,4,3.8,Mathematics,Tufts
+"McHenry, Michael","Professor of Materials Science and Engineering, CarnegieMellon University",12811,52,202,2.9,7,2.0,Engineering,CMU
+"Goh, Kelvin",Massey University,1607,22,34,4.5,2,1.5,English,Tufts
+"Rodin, Gregory","Professor of Aerospace Engineering and Engineering Mechanics, University of Texas at Austin",1570,19,33,2.5,1,1.0,Physics,UTexas
+"Cunha, Carlos",Robert Bosch LLC,18042,54,150,5.0,3,4.3,Physics,UChicago
+"Sahami, Mehran","Professor of Computer Science, Stanford University",19778,45,79,4.9,53,4.0,Computer Science,Stanford
+"Batzoglou, Serafim",insitro,65444,58,96,4.3,10,2.5,Computer Science,Stanford
+"Tighe, Rosie",Cleveland State University,526,10,11,4.4,6,3.0,Political Science,Tufts
+"Zhao, Xuanhe","Professor, Massachusetts Institute of Technology",15772,61,112,3.5,1,3.0,Engineering,Duke
+"Vallero, Daniel","Adjunct Professor of Engineering, Duke University",4104,22,38,2.0,2,4.5,Engineering,Duke
+"Aziz, Adnan",Facebook,15019,43,397,3.8,2,3.5,Engineering,UTexas
+"Cohn, Richard","professor of music, yale",2831,22,24,5.0,3,2.0,Music,UChicago
+"Ozdoganlar, Burak",Ver Planck Endowed Chair Professor of Mechanical Engineering; Prof. of Biomedical Engineering and,3112,29,62,2.5,5,2.2,Engineering,CMU
+"Linder, Joshua","Associate Professor of Anthropology, James Madison University",618,11,11,4.1,6,4.0,Anthropology,Duke
+"Simmons, Rebecca","THIS Institute, University of Cambridge",5766,37,77,3.8,24,3.8,Engineering,Duke
+"Yin, Henry",Duke University,9113,35,63,1.9,6,2.0,Psychology,Duke
+"Claytor, Kevin",US Army Research Laboratory,372,8,7, ,0, ,Physics,Duke
+"Khaldi, Boutheina","Professor of Arabic and comparative literature, American University of Sharjah",39,4,1,3.5,5,2.2,Languages,Duke
+"Maarten, De Boer","Professor of Mechanical Engineering, Carnegie Mellon University",4707,35,75,2.5,2,2.5,Engineering,CMU
+"Christin, Nicolas","Associate Professor, Carnegie Mellon University",8970,45,94, ,0, ,Engineering,CMU
+"Aaker, Jennifer","General Atlantic Professor, Stanford University",30738,48,66,4.0,3,3.7,Business,Stanford
+"Huber, Mark","Professor of Mathematical Sciences, Claremont McKenna College",2526,19,26,4.8,10,2.7,Mathematics,Duke
+"Owen, David",University of Southampton,3947,26,50,4.2,4,3.2,Mathematics,CMU
+"Harris, Joseph",University of Delaware,2152,14,17,4.4,16,3.4,English,Duke
+"Wakely, Scott",University of Chicago,38791,66,168,4.5,2,3.5,Physics,UChicago
+"Schnyer, David","University of Texas, Austin",7078,45,81,5.0,1,3.0,Psychology,UTexas
+"Goodridge, Shane","University of California, Irvine",2,1,0,5.0,2,4.0,Education,Duke
+"Clingher, Adrian","Associate Professor, University of Missouri - St. Louis",259,9,8,3.0,2,2.5,Mathematics,Stanford
+"Strano, Michele","Bridgewater College, Virginia, USA",508,8,5,4.4,8,3.8,Writing,Duke
+"Santiago, Juan","Professor, Mechanical Engineering, Stanford University",25909,73,225,5.0,2,3.0,Engineering,Stanford
+"Skeiker, Fadi","The University of the Arts, Philadelphia",21,3,0,4.2,19,3.4,Theater,UTexas
+"Salvador, Paul","Professor of Materials Science and Engineering, Carnegie Mellon University",3446,31,89,4.4,12,2.8,Engineering,CMU
+"Lehoczky, John","Professor of Statistics and Data Science, Carnegie Mellon University",22284,54,107,5.0,1,3.0,Statistics,CMU
+"Pimm, Stuart","Chair of Conservation, Duke University",39983,93,238,3.0,1,3.0,Ecology & Evolutionary Biology,Duke
+"Reed, Mike",Northumbria Healthcare NHS Foundation Trust,5818,40,93,4.2,4,2.5,Mathematics,Duke
+"Demaine, Erik","Professor of Electrical Engineering and Computer Science, Massachusetts Institute of Technology",21191,70,311,4.5,1,3.0,Engineering,MIT
+"Das, Subha",Carnegie Mellon University,1179,16,20,3.5,1,5.0,Chemistry,CMU
+"Brodbelt, Jennifer","Professor of Chemistry, University of Texas at Austin",14466,63,314,3.0,10,3.2,Chemistry,UTexas
+"Proft, Jennifer","Research Associate, The University of Texas at Austin",654,14,19,4.2,2,3.0,Mathematics,UTexas
+"Karakurt, Cagri",Bogazici University,165,8,8, ,0, ,Mathematics,UTexas
+"McNay, Ewan","Associate Professor and Area Head, Behavioural neuroscience, University at Albany",4914,34,43,5.0,2,1.5,Psychology,Yale
+"Colvin, Vicki",Brown University,44589,87,167,1.0,1,3.0,Chemistry,Rice
+"Salaberry, Rafael",Rice University,3612,27,37, ,0, ,Spanish & Portuguese,UTexas
+"Phillips, Chris",CSIRO,4946,37,69,3.5,3,2.3,Philosophy,Tufts
+"Hyman, Jeremy","Department of Biology, Western Carolina University",1018,13,13,4.1,14,3.1,Biology,Duke
+"Zielinski, David","Research and Development Engineer, Duke University ",734,13,13, ,0, ,Psychology,Duke
+"McDonald, Kevin",Middlesex University,1940,15,18, ,0, ,History,CMU
+"Rutenbar, Rob","Professor of Computer Science and Electrical and Computer Engineering, University of Pittsburgh",11473,55,144,4.7,9,2.4,Engineering,CMU
+"Wasserman, Daniel","Associate Professor of Electrical and Computer Engineering, University of Texas Austin",4576,32,66,4.5,1,3.0,Engineering,Princeton
+"Albertini, David","Ovistagen, LLC CEO",14503,62,155,3.0,1,3.0,Science,Tufts
+"Aazami, Amir",Clark University,127,6,4,4.9,7,3.0,Mathematics,Duke
+"Tonkinwise, Cameron","Professor of Interdisciplinary Design, UTS",742,16,20, ,0, ,Design,CMU
+"Gonzalez, Daniel","Associate Professor,  Head of Experimental Neurology Laboratory. Center For Biomedical Technology",974,13,17, ,0, ,Anthropology,Duke
+"Noble, Andrew","Principal Data Scientist and Machine Learning Engineer, GNS Healthcare",815,9,9, ,0, ,Music,UTexas
+"Beukema, Patrick","Center for Neuroscience, Center for the Neural Basis of Cognition",60,5,2, ,0, ,Philosophy,CMU
+"YU, Luping","Professor of chemistry, The University of Chicago",31388,82,184,1.5,2,3.0,Chemistry,UChicago
+"Huettel, Scott",Duke University,16317,63,122,4.0,1,2.0,Psychology,Duke
+"Wieczorek, Wojciech",University of Silesia in Katowice,129,8,7,3.9,4,2.5,Mathematics,Stanford
+"Barnes, Jaime","Associate Professor, Department of Geological Sciences, University of Texas at Austin",1870,25,39,5.0,1,5.0,Geology,UTexas
+"Kolba, Tiffany",Valparaiso University,104,5,4,3.8,2,2.0,Mathematics,Duke
+"Edwards, David",University of Western Australia,14895,60,164,3.0,25,2.1,Political Science,UTexas
+"Bertenthal, Bennett","James H. Rudy Professor of Psychological & Brain Sciences, Indiana University",8917,47,75,2.4,5,1.6,Psychology,UChicago
+"Nagarajaiah, Satish","Professor of Structural Engineering, Civil and Mechanical Engineering, Rice University",11023,52,171,4.9,4,1.8,Engineering,Rice
+"Malone, David","Associate Professor (Senior Lecturer), Hamilton Institute / Department of Mathematics and Statistics",3700,27,50,4.4,17,4.1,Education,Duke
+"Sharma, Nikhil",Harvard Medical School,997,11,11, ,0, ,Mathematics,UChicago
+"Lee, Cin-Ty",Rice University,9198,51,129,5.0,3,4.0,Geology,Rice
+"Alberts, Susan",Duke University,13399,65,142,3.6,8,3.5,Biology,Duke
+"Baker, Jennifer",Center for Clinical Research and Prevention,9307,33,67, ,0, ,Philosophy,Duke
+"Holley, Scott",Yale University,3849,31,40, ,0, ,Biology,Yale
+"Agaian, Sos","Distinguished Professor ,Computer Sciences , CUNY Graduate Center &CSI",9482,41,186,3.3,3,3.0,Electrical & Comp. Engineering,Tufts
+"Meyer, Curtis","Professor of Physics, Carnegie Mellon University",25540,90,259,4.2,3,2.3,Physics,CMU
+"Harper, Robert","Dean, Craig School of Business, California State University, Fresno",306,7,7,3.5,2,2.0,Computer Science,CMU
+"Aggarwal, J","Professor of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX",32064,85,320, ,0, ,Engineering,UTexas
+"Kirkham, Natasha","Associate Professor, Centre for Brain and Cognitive Development, Dept of Psychological Sciences",4846,28,37,4.5,1,3.0,Psychology,Stanford
+"Cheng, Hung",Intel Corporation,2570,22,25, ,0, ,Mathematics,MIT
+"Abdulkadiroglu, Atila",Professor of Economics,7562,29,35,2.4,4,2.5,Economics,Duke
+"Cornwell, Christopher","Professor of Economics, University of Georgia",4877,23,37,4.5,2,3.0,Mathematics,Duke
+"Russell, Robert","professor of mathematics, simon fraser university",10916,47,98,4.8,2,2.0,Political Science,Tufts
+"Tweed, Thomas",University of Notre Dame,2892,17,24,4.3,5,4.8,Religion,UTexas
+"Ramsey, Grant","Institute of Philosophy, KU Leuven, Belgium",581,12,14,3.3,6,2.2,Philosophy,Duke
+"Brown, Aaron",Maine Medical Center and The Jackson Laboratory,2026,16,22,4.9,4,3.0,Mathematics,Tufts
+"Daly, Michael","USUHS, School of Medicine",9720,38,53,4.8,5,5.0,Physical Ed,Tufts
+"Barron, Andrew","Professor of Statistics, Yale University",21141,42,77,2.0,1,3.0,Statistics,Yale
+"Thomas, Rachel",Sunway University,104,3,2,3.5,1,4.0,Mathematics,Duke
+"Duggan, Mark","Professor of Economics, Stanford University",6174,35,43,4.1,4,3.0,Economics,UChicago
+"Cook, Simon","Signalling Laboratory, The Babraham Institute",11268,55,92,3.7,28,2.6,Writing,Duke
+"Deseri, Luca",University of Pittsburgh USA and University of Trento Italy,989,18,27,3.7,3,2.7,Mathematics,CMU
+"Goss, Kristin","Kevin D. Gorter Professor of Public Policy and Political Science, Sanford School of Public",1739,18,24,4.3,3,2.3,Public Policy,Duke
+"Ullman, Michael","Professor of Neuroscience, Georgetown University",14995,47,95,3.6,18,3.4,Music,Tufts
+"Anitescu, Mihai","Senior Computational Mathematician, Argonne National Laboratory",5453,37,93, ,0, ,Mathematics,UChicago
+"Gabrieli, John",MIT,77583,147,352,5.0,1,4.0,Psychology,Stanford
+"Solomon, Harris",Associate Professor of Cultural Anthropology and Global Health,222,8,4,5.0,1,3.0,Anthropology,Duke
+"Shalizi, Cosma","Professor of Statistics, Carnegie Mellon University",12506,32,46,5.0,1,3.0,Statistics,CMU
+"Bell, Chris",York university,1423,12,13,3.7,8,2.0,Geology,UTexas
+"Kaplan, David",Hospital for Sick Children,50118,102,323,4.1,12,3.0,Engineering,Tufts
+"Socrate, Simona","Principal Research Scientist, Massachusetts Institute of Technology",3272,31,50,3.5,6,2.8,Engineering,MIT
+"Marks, Lawrence","Fellow, John B. Pierce Laboratory and Professor of Environmental Health Sciences and Psychology",14075,64,168,4.5,1,2.0,Psychology,Yale
+"Tunnell, James",University of Texas,4021,33,57, ,0, ,Engineering,UTexas
+"Bender, Abby",Sacred Heart University,22,2,1,5.0,1,3.0,English,Princeton
+"Graber, Jennifer","Professor of Religious Studies, University of Texas at Austin",113,5,2,5.0,2,4.5,Religion,UTexas
+"Dowell, Earl",未知關係機構,21756,71,307,4.0,1,4.0,Engineering,Duke
+"Harrison, Robert",Stony Brook University,23258,57,130,2.5,2,2.0,French & Italian,Stanford
+"Johnston, Mark","Professor of Biochem & Mol. Genetics, Univ Colorado SOM; formerly Prof of Genetics, Washington U",38227,70,112, ,0, ,Philosophy,Princeton
+"Scheines, Richard","Dean, Dietrich College of Humanities and Social Sciences, Carnegie Mellon University",13492,34,72,4.2,4,2.8,Philosophy,CMU
+"Brodley, Carla",Northeastern University,15204,56,99,3.5,3,2.0,Computer Science,Tufts
+"Gill, Tiffany","Senior Research Fellow, the University of Adelaide",9141,43,96,4.3,5,3.6,History,UTexas
+"Bleakney, Julia",Elon University,28,1,1,3.5,1,4.0,English,Stanford
+"Olson, Mark",Franklin & Marshall College,19435,47,116,1.5,1,3.0,Graphic Arts,Duke
+"Sanson, Kevin",Queensland University of Technology,422,8,5,4.8,5,1.6,Film,UTexas
+"Chun, Marvin","Yale University; Richard M. Colgate Professor of Psychology, Neuroscience, Cognitive Science",31042,72,126,4.8,9,3.7,Psychology,Yale
+"Hamilton, James",University of California at San Diego,67744,66,89,4.3,18,2.0,Psychology,Harvard
+"Robinson, Allen","Lane Professor; Dept. Mechanical Engineering, Dept. Engineering & Public Policy; Carnegie Mellon",18364,74,172,4.6,8,3.1,Engineering,CMU
+"MacKi, Adrienne",University of Connecticut,18,3,0,4.5,3,3.3,Theater,Tufts
+"Connolly, Michelle","Professor of the Practice, Department of Economics, Duke University",824,10,10,3.6,20,3.2,Economics,Duke
+"Mitchell, Douglas","Professor of Chemistry, University of Illinois",5902,35,65,4.5,2,4.0,Languages,Rice
+"Sarkar, Sahotra","Professor of Philosophy and Integrative Biology, University of Texas at Austin",9805,52,138,1.8,3,2.7,Biology,UTexas
+"Solgaard, Olav","Professor of Electrical Engineering, Stanford Unviversity",12741,57,204, ,0, ,Engineering,Stanford
+"Zodrow, George","Cline Professor of Economics, Rice University",5950,33,66,4.0,1,3.0,Economics,Rice
+"Pfenning, Frank","Professor of Computer Science, Carnegie Mellon University",15043,63,161,4.2,2,2.5,Computer Science,CMU
+"Fischhoff, Baruch","Howard Heinz University Professor, Carnegie Mellon University",67407,115,353,3.5,1,4.0,Social Science,CMU
+"Taylor, Kerry",ph.d student,13959,34,67,4.2,2,4.5,History,Duke
+"Brooks, David",Professor of PET Clinical Science Newcastle University UK,97230,156,742, ,0, ,Public Policy,Duke
+"Smith, Ben",University of Sydney,7028,41,80,1.0,2,5.0,Theater,Harvard
+"Niou, Emerson",Duke University,2583,27,38,2.5,4,3.2,Political Science,Duke
+"Tomasi, Carlo","Professor of Computer Science, Duke University",45310,61,111,4.6,4,3.2,Computer Science,Duke
+"Aazhang, Behnaam","J.S. Abercrombie Professor in Electrical and Computer Engineering, Rice University",23953,57,165,5.0,1,1.0,Engineering,Rice
+"Khardon, Roni","Professor of Computer Science, Indiana University, Bloomington",2561,28,51,2.1,5,2.0,Computer Science,Tufts
+"Thiessen, Erik","Department of Psychology, Carnegie Mellon University",2972,23,31,4.7,3,3.3,Psychology,CMU
+"August, David","Computer Science, Princeton University",7273,44,86,4.5,4,2.0,Computer Science,Princeton
+"Kamakura, Wagner",Rice University,20918,58,105, ,0, ,Business,Duke
+"Lutzoni, Francois","Professor of Biology, Duke University",18278,58,112,1.6,9,1.1,Biology,Duke
+"Henery, Ashlie",University of Pennsylvania,105,5,5,5.0,1,5.0,Languages,CMU
+"Grodzinsky, Alan",Afiliação desconhecida,34119,95,276,4.1,7,2.7,Engineering,MIT
+"Carberry, Emma",University of Sydney,118,6,4,2.8,2,3.0,Mathematics,Duke
+"Reddien, Peter","MIT, Whitehead Institute",7973,40,52, ,0, ,Biology,MIT
+"Avinash, Dixit",Princeton University,77749,85,209,5.0,2,3.0,Economics,Princeton
+"Hawkes, Christine",North Carolina State University,4979,32,48,3.5,1,2.0,Biology,UTexas
+"Block, Barbara","professor of Biology, Stanford University",19690,76,190,1.0,1,3.0,Biology,Stanford
+"Canizares-Esguerra, Jorge",Alice Drysdale Sheffield Professor of History. University of Texas-Austin,3697,23,42,3.8,14,1.8,History,UTexas
+"Cooper, Keith","Professor of Computer Science, Rice University",8188,44,68, ,0, ,Computer Science,Rice
+"Johnston, Erin","Applied Ecology Unit, Centre for Environmental Science, National University of Ireland  Galway",110,3,1, ,0, ,Sociology,Princeton
+"Russell, Robert","professor of mathematics, simon fraser university",10916,47,98,3.6,7,2.6,Business,Harvard
+"McDonald, John","Professor of Economics, University of Illinois",20587,74,246,5.0,3,3.3,Music,Tufts
+"Lee, Inhwan","Department of Materials Science & Engineering, Korea University",5112,35,158, ,0, ,Electrical Engineering,Yale
+"Fitzgerald, David","Professor of Sociology, University of California, San Diego",3379,20,26,4.2,5,4.4,Psychology,Duke
